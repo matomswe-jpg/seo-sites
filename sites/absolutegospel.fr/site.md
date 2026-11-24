@@ -11,3 +11,7 @@
 
 Ces plans sont la feuille de route du site. Chaque action reste soumise aux 3 niveaux de `CLAUDE.md` : rien n'est publié, supprimé ou redirigé sans validation.
 Corrections à apporter aux plans : `docs/ecosystem.md`, section 4 (identifiants Schema) et section 6 (faits).
+
+## Faits confirmés
+- Prochaine édition : **samedi 5 et dimanche 6 juin 2027**, Salle Molière, 20 quai de Bondy, 69005 Lyon (confirmé par Sabine le 24/11/2026).
+- À fournir avant publication : programme et artistes 2027, tarifs, date d'ouverture de la billetterie, numéro d'édition (« 23e » ?).

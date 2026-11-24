@@ -99,8 +99,8 @@ Les noms actuels de fiches qui contiennent des mots-clés (« CHORALE GOSPEL LYO
 | Baobab : création | 29/08/2002, SIRET 444 056 758 00014 | plan Baobab |
 | Festival : création | 2004 ; 22e édition les 5-6 juin 2026 | plans ; « 22 éditions en 23 ans » à confirmer (une année sans édition ?) |
 | Festival 2026 | **vendredi** 5 et **samedi** 6 juin 2026 | vérifié au calendrier ; le site affiche « samedi 5 juin » et « 6 juin 2025 » (erreurs) |
-| Festival 2027 | **samedi 5 et dimanche 6 juin 2027**, Salle Molière | document « Modifications » ; jours de semaine vérifiés |
-| Salle Molière | 20 quai de Bondy, 69005 Lyon | [Ville de Lyon](https://lyon.fr/lieu/salles-municipales-louer/salle-moliere-salle-de-spectacle-municipale). Le plan festival indique « 18 » : retenir **20** |
+| Festival 2027 (23e édition) | **samedi 5 et dimanche 6 juin 2027**, Salle Molière, 20 quai de Bondy, 69005 Lyon | **confirmé par Sabine le 24/11/2026** ; jours de semaine vérifiés |
+| Salle Molière | 20 quai de Bondy, 69005 Lyon | **confirmé par Sabine le 24/11/2026**, conforme à la [Ville de Lyon](https://lyon.fr/lieu/salles-municipales-louer/salle-moliere-salle-de-spectacle-municipale) (le plan festival indiquait « 18 ») |
 | Infoline festival | 07 83 99 99 75 | plan festival |
 | Instagram | @sabinekouli_coachvocal (coaching), @lafromad (projets et voyages), @jaama_gospel, @absolutegospelfestival | guide Baobab : le lien « insta de Sabine Kouli » sur baobabetcie.fr doit pointer vers @sabinekouli_coachvocal |
 

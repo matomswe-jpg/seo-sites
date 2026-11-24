@@ -57,7 +57,15 @@
 
 ## Prochaines validations demandées
 
-- [ ] Option B acceptée ?
+- [x] Option B acceptée (24/11/2026)
 - [ ] Droits sur les 69 images Wix ?
 - [ ] Le canonical personnalisé est-il proposé dans votre interface Wix (forfait gratuit) ?
-- [ ] Premier lot pilote proposé : *Comment fonctionne notre appareil vocal*, *Voix mixte*, *Chanter juste*, et la fusion *Échauffement vocal* (5 articles regroupés en 1).
+- [ ] Premier lot pilote proposé : *Comment fonctionne notre appareil vocal*, *Voix mixte*, *Chanter juste*, et la fusion *Échauffement vocal* (4 articles regroupés en 1).
+
+## Constat sur les images (24/11/2026)
+
+Les images vérifiées du lot pilote portent le filigrane de **Bing Image Creator** : ce sont des images générées par IA. Leurs conditions d'usage commercial sont à vérifier avant de les réutiliser sur sabinekouli.com. Recommandation : les remplacer progressivement par de vraies photos (cours, chorale, scène), ce qui renforce aussi l'expertise démontrée des articles.
+
+## Lot pilote : brouillons préparés
+
+`drafts/il-etait-une-voix/lot-01/` : 01 appareil vocal, 02 voix mixte, 03 chanter juste, 04 échauffement vocal (fusion de 4 articles). Non publiés.

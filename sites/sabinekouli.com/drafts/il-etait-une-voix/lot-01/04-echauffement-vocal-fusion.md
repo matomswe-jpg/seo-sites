@@ -1,6 +1,6 @@
 # BROUILLON 04 : Échauffement vocal (fusion de 4 articles Wix)
 
-> Statut : **brouillon local, non publié**. À valider par Sabine.
+> Statut : **corrections et modifications proposées VALIDÉES par Sabine le 2026-11-24**. Brouillon local, non publié. À valider par Sabine.
 > **Correction de mon rapport précédent** : le groupe « échauffement » compte **4** articles (et non 5). *Mise en route corporelle avant de chanter : rituels* reste un article séparé (pilier Corps et expression) et sera relié à celui-ci.
 
 ## Articles fusionnés

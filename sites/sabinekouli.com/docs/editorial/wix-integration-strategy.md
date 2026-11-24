@@ -69,3 +69,12 @@ Les images vérifiées du lot pilote portent le filigrane de **Bing Image Creato
 ## Lot pilote : brouillons préparés
 
 `drafts/il-etait-une-voix/lot-01/` : 01 appareil vocal, 02 voix mixte, 03 chanter juste, 04 échauffement vocal (fusion de 4 articles). Non publiés.
+
+## Avancement du lot pilote (2026-11-24)
+
+- [x] Corrections et modifications des 4 brouillons validées par Sabine.
+- [ ] Passages « [À COMPLÉTER PAR SABINE] » (expérience personnelle, exercices réels, rituel d'échauffement).
+- [ ] Brouillon 04 : questions ouvertes (exemple Céline Dion, formulation sur le périnée, tutoiement ou vouvoiement).
+- [ ] Images : droits sur les images Bing Image Creator, ou photos réelles de remplacement.
+- [ ] Réglage du canonical (ou du noindex) de chaque article Wix concerné, par Sabine, **avant** publication sur WordPress.
+- [ ] Accès WordPress à sabinekouli.com, création en **brouillon** WordPress, puis validation finale de la publication.

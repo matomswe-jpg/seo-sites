@@ -45,5 +45,13 @@ Tarifs, témoignages, diplômes et qualifications, horaires des cours.
 
 ## Encore à valider
 - Nom exact de la fiche Google Business Profile (le lien est fourni, mais le nom n'est pas lisible sans accès).
-- Adresse de la fiche : zone desservie recommandée (même adresse et même téléphone que La Jaama), voir docs/ecosystem.md §5.
+
 - Offre d'hébergement OVH.
+
+## Décision du 2026-11-24 : fiche Google Sabine Kouli en zone desservie
+
+- **Validé par Sabine** : la fiche Google « Sabine Kouli » passe en **zone desservie, adresse masquée**. Raison : La Jaama a déjà une fiche à la Maison Ferber avec le même téléphone, ce qui crée un risque de fusion ou de filtrage.
+- Zones desservies : Caluire-et-Cuire, Lyon (dont Croix-Rousse et Lyon 4e), Rillieux-la-Pape, Villeurbanne.
+- **Sur sabinekouli.com**, la Maison Ferber et la Maison de quartier de Saint-Clair restent présentées comme **lieux de cours** (page coaching, page Contact). Le pied de page affiche le nom, le téléphone et « Cours à Caluire-et-Cuire et en visio », sans adresse postale présentée comme siège de l'activité.
+- Schema : Person (`https://sabinekouli.com/#person`) avec `telephone`, `areaServed` et `sameAs`, sans `address` d'établissement. Les deux lieux apparaissent comme `Place` dans le contenu de la page coaching, sans nœud LocalBusiness à l'adresse Ferber.
+- Exécution sur Google Business Profile : **par Sabine** (aucun accès de ma part). Procédure dans `docs/seo-action-plan.md`, phase 3.

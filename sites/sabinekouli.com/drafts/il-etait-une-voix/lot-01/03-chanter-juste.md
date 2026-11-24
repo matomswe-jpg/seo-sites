@@ -1,6 +1,6 @@
 # BROUILLON 03 : Comment travailler la justesse quand on chante très faux ?
 
-> Statut : **brouillon local, non publié**. À valider par Sabine.
+> Statut : **corrections et modifications proposées VALIDÉES par Sabine le 2026-11-24**. Brouillon local, non publié. À valider par Sabine.
 > Original Wix : https://matomswe7.wixsite.com/iletaitunevoix/post/comment-travailler-la-justesse-vocale-quand-on-chante-très-faux (publié le 04/08/2023, 447 mots)
 
 ## Fiche SEO

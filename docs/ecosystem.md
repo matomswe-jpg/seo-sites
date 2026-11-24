@@ -74,12 +74,12 @@ Sur les autres sites, on **référence** ces `@id` sans redéclarer l'entité co
 
 | Fiche | Nom exact (sans mot-clé) | Catégorie principale | Adresse | Téléphone |
 |---|---|---|---|---|
-| Sabine Kouli | Sabine Kouli | Professeur de chant | ⚠️ **décision** (voir ci-dessous) | 06 61 44 42 87 |
+| Sabine Kouli | Sabine Kouli | Professeur de chant | **zone desservie, adresse masquée (validé le 24/11/2026)** | 06 61 44 42 87 |
 | La Jaama | La Jaama | Chœur | Maison Ferber, 14 rue du Capitaine Ferber, Caluire | 06 61 44 42 87 |
 | Festival | Festival Absolute Gospel | Festival / Organisateur d'événements | 104 route de Strasbourg si accueil du public, sinon zone desservie | 07 83 99 99 75 (Infoline) |
 | Baobab | Association Baobab & Compagnie | Association culturelle | **zone desservie** : le guide indique « pas d'accueil du public » au 104 route de Strasbourg | 06 61 44 42 87 |
 
-⚠️ **Décision à prendre : l'adresse de la fiche Sabine Kouli.**
+✅ **Décidé le 24/11/2026 : fiche Sabine Kouli en zone desservie.** Contexte de la décision :
 - Le plan sabinekouli (13/11) propose la Maison Ferber, et vous avez confirmé y recevoir vos élèves.
 - Le plan Baobab propose une « zone desservie ».
 - Or **La Jaama est déjà à la Maison Ferber, avec le même téléphone**. Deux fiches à la même adresse, avec le même numéro et des activités proches (chant), présentent un **risque réel de fusion ou de filtrage par Google**.

@@ -143,4 +143,23 @@ Demande : renforcer aussi l'identité chanteuse gospel, cheffe de chœur gospel 
 - Titre d'accueil *Sabine Kouli – Chanteuse gospel et coach vocal à Lyon* : **approuvé** par Sabine le 24/11/2026. À exécuter dès que l'accès est en place (lecture de l'état initial, modification, puis contrôle du HTML publié).
 - Liens vers lajaama.fr, absolutegospel.fr et baobabetcie.fr : voir `docs/ecosystem.md` §3 (pages 97, 121, 267, 301, pied de page).
 - Schema : Person `@id` = `https://sabinekouli.com/#person` (identifiant partagé par les 4 sites).
-- Fiche Google Sabine Kouli : zone desservie recommandée (voir ecosystem §5), à décider.
+- Fiche Google Sabine Kouli : **zone desservie validée le 24/11/2026**.
+
+## Mise à jour du 2026-11-24 : zone desservie validée (remplace les phases 3 et 5 sur ces points)
+
+**Phase 3 (NAP) révisée**
+- Pied de page : `Sabine Kouli – coach vocal · 06 61 44 42 87 (tel:+33661444287) · Cours à Caluire-et-Cuire, Lyon et en visio`. Pas d'adresse postale dans le pied de page.
+- Page coaching et page Contact : section « Où ont lieu les cours », avec les deux lieux (Maison Ferber, 14 rue du Capitaine Ferber ; Maison de quartier de Saint-Clair, 82B Grande Rue de Saint-Clair, 69300 Caluire-et-Cuire) et la mention « le lieu exact est communiqué lors de la réservation ».
+- Le nom affiché sur le site doit rester identique au nom de la fiche Google (toujours à confirmer).
+
+**Phase 5 (Schema) révisée**
+- Pas de nœud `LocalBusiness` avec adresse Maison Ferber, qui aurait recréé la confusion avec La Jaama.
+- Person `#person` : `jobTitle`, `telephone`, `areaServed` (villes ci-dessus), `sameAs` (Instagram coach vocal, Facebook artiste, LinkedIn, fiche Google via son URL `kgmid`), `founder` → festival et Baobab selon `docs/ecosystem.md`.
+- Page coaching : nœud `Service` (« Coaching vocal individuel », `provider` → #person, `areaServed`, `availableChannel` présentiel et visio) ajouté au graphe Yoast.
+
+**Fiche Google : étapes pour Sabine (5 minutes)**
+1. business.google.com (ou recherche Google « Sabine Kouli », puis « Modifier le profil »).
+2. **Infos > Emplacement et zones > Adresse de l'établissement** : **retirez l'adresse** (ou choisissez de ne pas l'afficher), puis enregistrez.
+3. **Zone desservie** : ajoutez Caluire-et-Cuire, Lyon, Rillieux-la-Pape, Villeurbanne.
+4. Vérifiez que le nom est exactement celui de votre activité, sans mot-clé ajouté.
+5. Google peut demander une nouvelle validation après le changement : c'est normal.

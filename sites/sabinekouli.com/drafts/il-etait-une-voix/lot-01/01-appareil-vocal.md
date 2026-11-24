@@ -1,6 +1,6 @@
 # BROUILLON 01 : Comment fonctionne notre appareil vocal ?
 
-> Statut : **brouillon local, non publié**. Niveau 2. À valider par Sabine.
+> Statut : **corrections et modifications proposées VALIDÉES par Sabine le 2026-11-24**. Brouillon local, non publié. Niveau 2. À valider par Sabine.
 > Original Wix : https://matomswe7.wixsite.com/iletaitunevoix/post/comment-fonctionne-notre-appareil-vocal (publié le 01/08/2023)
 
 ## Fiche SEO

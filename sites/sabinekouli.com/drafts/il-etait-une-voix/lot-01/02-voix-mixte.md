@@ -1,6 +1,6 @@
 # BROUILLON 02 : Comment travailler sa voix mixte ?
 
-> Statut : **brouillon local, non publié**. À valider par Sabine.
+> Statut : **corrections et modifications proposées VALIDÉES par Sabine le 2026-11-24**. Brouillon local, non publié. À valider par Sabine.
 > Original Wix : https://matomswe7.wixsite.com/iletaitunevoix/post/comment-travailler-sa-voix-mixte (publié le 03/08/2023, 818 mots)
 
 ## Fiche SEO

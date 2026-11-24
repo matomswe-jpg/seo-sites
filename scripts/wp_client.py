@@ -27,7 +27,7 @@ def load_env(site):
             if line and not line.startswith("#") and "=" in line:
                 k, v = line.split("=", 1)
                 env[k.strip()] = v.strip().strip('"').strip("'")
-    for k in ("WP_BASE_URL", "WP_USER", "WP_APP_PASSWORD"):
+    for k in ("WP_BASE_URL", "WP_USER", "WP_APP_PASSWORD", "WP_AUTH_MODE"):
         if os.environ.get(k):
             env[k] = os.environ[k]
     return env
@@ -40,8 +40,11 @@ class WPClient:
         self.base = env.get("WP_BASE_URL", f"https://{site}").rstrip("/")
         self.s = requests.Session()
         self.s.headers["User-Agent"] = UA
-        self.authenticated = bool(env.get("WP_USER") and env.get("WP_APP_PASSWORD"))
-        if self.authenticated:
+        # WP_AUTH_MODE=proxy : l'identifiant est injecté par le proxy de la session cloud
+        # (secret réseau propre à l'hôte) ; aucun secret n'est alors présent dans ce processus.
+        self.proxy_auth = env.get("WP_AUTH_MODE") == "proxy"
+        self.authenticated = self.proxy_auth or bool(env.get("WP_USER") and env.get("WP_APP_PASSWORD"))
+        if self.authenticated and not self.proxy_auth:
             self.s.auth = (env["WP_USER"], env["WP_APP_PASSWORD"])
         self.allow_write = allow_write
 

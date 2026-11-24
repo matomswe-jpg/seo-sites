@@ -1,0 +1,1099 @@
+{
+ "results": [
+  {
+   "type": "page",
+   "id": 149,
+   "url": "https://baobabetcie.fr/activites/",
+   "slug": "activites",
+   "count": null,
+   "modified": "2025-09-09T14:53:24",
+   "wp_title": "Activités &#8211; Agenda",
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/activites/",
+   "redirects": [],
+   "html_kb": 83,
+   "litespeed": null,
+   "title": "Activités – Agenda – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://baobabetcie.fr/activites/",
+   "og_title": null,
+   "h1": [
+    "Activités – Agenda"
+   ],
+   "h2": [
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 0,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (0 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 13
+  },
+  {
+   "type": "page",
+   "id": 93,
+   "url": "https://baobabetcie.fr/qui-sommes-nous/",
+   "slug": "qui-sommes-nous",
+   "count": null,
+   "modified": "2025-09-01T16:26:24",
+   "wp_title": "Association Baobab&amp;cie",
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/qui-sommes-nous/",
+   "redirects": [],
+   "html_kb": 90,
+   "litespeed": null,
+   "title": "Association Baobab&cie – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://baobabetcie.fr/qui-sommes-nous/",
+   "og_title": null,
+   "h1": [
+    "Association Baobab&cie"
+   ],
+   "h2": [
+    "A propos",
+    "Mission",
+    "Les principales actions",
+    "Publics",
+    "Bénévolat & participation",
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [
+    "Le Festival Absolute Gospel (Lyon)",
+    "Ateliers, stages et chœur « La Jaama »",
+    "Projets artistiques et pédagogiques",
+    "Actions solidaires et culturelles"
+   ],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 354,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 13
+  },
+  {
+   "type": "page",
+   "id": 2,
+   "url": "https://baobabetcie.fr/sample-page/",
+   "slug": "sample-page",
+   "count": null,
+   "modified": "2025-08-03T09:34:40",
+   "wp_title": "Sample Page",
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/sample-page/",
+   "redirects": [],
+   "html_kb": 85,
+   "litespeed": null,
+   "title": "Sample Page – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://baobabetcie.fr/sample-page/",
+   "og_title": null,
+   "h1": [
+    "Sample Page"
+   ],
+   "h2": [
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "http://baobabetcie.fr/wp-admin/",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 158,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Titre dupliqué (2x)",
+     "Titre unique"
+    ]
+   ],
+   "inbound_count": 0
+  },
+  {
+   "type": "page",
+   "id": 5,
+   "url": "https://baobabetcie.fr/contact/",
+   "slug": "contact",
+   "count": null,
+   "modified": "2025-09-01T16:27:26",
+   "wp_title": "Nous contacter",
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/contact/",
+   "redirects": [],
+   "html_kb": 85,
+   "litespeed": null,
+   "title": "Nous contacter – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://baobabetcie.fr/contact/",
+   "og_title": null,
+   "h1": [
+    "Nous contacter"
+   ],
+   "h2": [
+    "Pour nous écrire",
+    "Par courriel",
+    "Équipe et gouvernance",
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [
+    "Statut & mentions légales"
+   ],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 109,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (109 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 13
+  },
+  {
+   "type": "page",
+   "id": 17,
+   "url": "https://baobabetcie.fr/blog/",
+   "slug": "blog",
+   "count": null,
+   "modified": "2024-01-04T11:36:08",
+   "wp_title": "Blog",
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/blog/",
+   "redirects": [],
+   "html_kb": 87,
+   "litespeed": null,
+   "title": "Blog – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": null,
+   "og_title": null,
+   "h1": [
+    "Blog"
+   ],
+   "h2": [
+    "Hello world!",
+    "Don’t Miss The Importance of Jazz Music Drumming",
+    "String Instrument Care for Winter / Tropical Climates",
+    "News: Guide to buying adaptive musical instruments",
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 112,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Titre court/peu descriptif (19 car.)",
+     "Titre SEO descriptif"
+    ],
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (112 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 0
+  },
+  {
+   "type": "page",
+   "id": 16,
+   "url": "https://baobabetcie.fr/",
+   "slug": "home",
+   "count": null,
+   "modified": "2024-01-04T11:36:04",
+   "wp_title": "Home",
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/",
+   "redirects": [],
+   "html_kb": 60,
+   "litespeed": null,
+   "title": "Baobab & Cie – La voix dans tous ses états!",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://baobabetcie.fr/",
+   "og_title": null,
+   "h1": [],
+   "h2": [
+    "Masterclasses Gospel",
+    "La Jaama",
+    "Festival Absolute Gospel",
+    "Arts du Gospel, concerts et masterclasses",
+    "Pour suivre les activités de l'association, Rendez-vous sur l'insta de Sabine Kouli",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [
+    "Association Baobab & Cie",
+    "Concert - Chorale",
+    "Baobab et Cie",
+    "Association baobab & Cie"
+   ],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/qui-sommes-nous/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "http://www.absolutegospel.fr",
+    "http://www.lajaama.fr",
+    "http://www.sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact",
+    "https://www.instagram.com/lafromad"
+   ],
+   "jsonld_types": [],
+   "words": 14,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Aucun H1",
+     "Ajouter un H1 unique"
+    ],
+    [
+     "P2",
+     "Contenu faible (14 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 13
+  },
+  {
+   "type": "page",
+   "id": 15,
+   "url": "https://baobabetcie.fr/sample-page-2/",
+   "slug": "sample-page-2",
+   "count": null,
+   "modified": "2024-01-04T09:56:46",
+   "wp_title": "Sample Page",
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/sample-page-2/",
+   "redirects": [],
+   "html_kb": 85,
+   "litespeed": null,
+   "title": "Sample Page – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://baobabetcie.fr/sample-page-2/",
+   "og_title": null,
+   "h1": [
+    "Sample Page"
+   ],
+   "h2": [
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://creativthemes.com/theme-demo/rock-singer-pro/wp-admin/",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 158,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Titre dupliqué (2x)",
+     "Titre unique"
+    ]
+   ],
+   "inbound_count": 0
+  },
+  {
+   "type": "post",
+   "id": 1,
+   "url": "https://baobabetcie.fr/hello-world/",
+   "slug": "hello-world",
+   "count": null,
+   "modified": "2025-08-03T09:34:40",
+   "wp_title": "Hello world!",
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/hello-world/",
+   "redirects": [],
+   "html_kb": 84,
+   "litespeed": null,
+   "title": "Hello world! – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://baobabetcie.fr/hello-world/",
+   "og_title": null,
+   "h1": [
+    "Hello world!"
+   ],
+   "h2": [
+    "Navigation de l’article",
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/author/jp_baob_cie_asso/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 34,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (34 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 12
+  },
+  {
+   "type": "post",
+   "id": 56,
+   "url": "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+   "slug": "dont-miss-the-importance-of-jazz-music-drumming",
+   "count": null,
+   "modified": "2024-01-11T10:16:53",
+   "wp_title": "Don’t Miss The Importance of Jazz Music Drumming",
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+   "redirects": [],
+   "html_kb": 84,
+   "litespeed": null,
+   "title": "Don’t Miss The Importance of Jazz Music Drumming – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+   "og_title": null,
+   "h1": [
+    "Don’t Miss The Importance of Jazz Music Drumming"
+   ],
+   "h2": [
+    "Navigation de l’article",
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/author/jp_baob_cie_asso/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 45,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (45 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 12
+  },
+  {
+   "type": "post",
+   "id": 55,
+   "url": "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/",
+   "slug": "string-instrument-care-for-winter-tropical-climates",
+   "count": null,
+   "modified": "2024-01-11T10:16:50",
+   "wp_title": "String Instrument Care for Winter / Tropical Climates",
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/",
+   "redirects": [],
+   "html_kb": 84,
+   "litespeed": null,
+   "title": "String Instrument Care for Winter / Tropical Climates – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/",
+   "og_title": null,
+   "h1": [
+    "String Instrument Care for Winter / Tropical Climates"
+   ],
+   "h2": [
+    "Navigation de l’article",
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/author/jp_baob_cie_asso/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 52,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P3",
+     "Titre long (68 car.)",
+     "Raccourcir à ~50-60 car."
+    ],
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (52 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 12
+  },
+  {
+   "type": "post",
+   "id": 54,
+   "url": "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+   "slug": "news-guide-to-buying-adaptive-musical-instruments",
+   "count": null,
+   "modified": "2024-01-11T10:16:40",
+   "wp_title": "News: Guide to buying adaptive musical instruments",
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+   "redirects": [],
+   "html_kb": 84,
+   "litespeed": null,
+   "title": "News: Guide to buying adaptive musical instruments – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+   "og_title": null,
+   "h1": [
+    "News: Guide to buying adaptive musical instruments"
+   ],
+   "h2": [
+    "Navigation de l’article",
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/author/jp_baob_cie_asso/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 43,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (43 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 12
+  },
+  {
+   "type": "category",
+   "id": 2,
+   "url": "https://baobabetcie.fr/category/news/",
+   "slug": "news",
+   "count": 3,
+   "modified": null,
+   "wp_title": null,
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/category/news/",
+   "redirects": [],
+   "html_kb": 86,
+   "litespeed": null,
+   "title": "News – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": null,
+   "og_title": null,
+   "h1": [
+    "News"
+   ],
+   "h2": [
+    "Don’t Miss The Importance of Jazz Music Drumming",
+    "String Instrument Care for Winter / Tropical Climates",
+    "News: Guide to buying adaptive musical instruments",
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 92,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Titre court/peu descriptif (19 car.)",
+     "Titre SEO descriptif"
+    ],
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 12
+  },
+  {
+   "type": "category",
+   "id": 1,
+   "url": "https://baobabetcie.fr/category/uncategorized/",
+   "slug": "uncategorized",
+   "count": 1,
+   "modified": null,
+   "wp_title": null,
+   "status": 200,
+   "final_url": "https://baobabetcie.fr/category/uncategorized/",
+   "redirects": [],
+   "html_kb": 83,
+   "litespeed": null,
+   "title": "Uncategorized – Baobab & Cie",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": null,
+   "og_title": null,
+   "h1": [
+    "Uncategorized"
+   ],
+   "h2": [
+    "Hello world!",
+    "Recent Posts",
+    "Recent Comments",
+    "Recent Posts",
+    "Social Links",
+    "Archives",
+    "Categories",
+    "Baobab&cie",
+    "La voix dans tout ses états",
+    "Sites connexes"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://baobabetcie.fr/wp-content/uploads/2025/09/LOGO-BAOBAB-ET-COMPAGNIE.png",
+     "alt": "Baobab & Cie",
+     "w": "400",
+     "h": "272"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://baobabetcie.fr",
+    "https://baobabetcie.fr/",
+    "https://baobabetcie.fr/2024/01/",
+    "https://baobabetcie.fr/2025/08/",
+    "https://baobabetcie.fr/activites/",
+    "https://baobabetcie.fr/category/news/",
+    "https://baobabetcie.fr/category/uncategorized/",
+    "https://baobabetcie.fr/contact/",
+    "https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/",
+    "https://baobabetcie.fr/hello-world/",
+    "https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/",
+    "https://baobabetcie.fr/qui-sommes-nous/",
+    "https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/"
+   ],
+   "external_links": [
+    "http://absolutegospel.fr",
+    "http://lajaama.fr",
+    "http://sabinekouli.com",
+    "https://sabinekouli.com/infos-pratiques/contact"
+   ],
+   "jsonld_types": [],
+   "words": 20,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 12
+  }
+ ],
+ "broken_internal": {
+  "http://baobabetcie.fr/wp-admin/": [
+   302,
+   "http://baobabetcie.fr/wp-login.php?redirect_to=http%3A%2F%2Fbaobabetcie.fr%2Fwp-admin%2F&reauth=1"
+  ]
+ }
+}

@@ -1,0 +1,48 @@
+type,URL,Problème constaté,Priorité,Correction recommandée,Action à réaliser
+page,https://absolutegospel.fr/,Titre générique « Home - Festival Absolute Gospel »,P1,Titre SEO spécifique,Niveau 3 – validation requise
+category,https://absolutegospel.fr/category/absolute-gospel-programmation-2025/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+category,https://absolutegospel.fr/category/actualites-festival-absolute-gospel/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+category,https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+category,https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+category,https://absolutegospel.fr/category/programmation-2026/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+category,https://absolutegospel.fr/category/uncategorized/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://absolutegospel.fr/,Aucun H1,P2,Ajouter un H1 unique,Niveau 2 – à préparer
+page,https://absolutegospel.fr/,Contenu faible (19 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+page,https://absolutegospel.fr/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://absolutegospel.fr/a-propos/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://absolutegospel.fr/blog/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://absolutegospel.fr/contact/,Contenu faible (0 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+page,https://absolutegospel.fr/contact/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://absolutegospel.fr/festival-absolute-gospel-lyon/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://absolutegospel.fr/infos-pratiques/,Contenu faible (123 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+page,https://absolutegospel.fr/infos-pratiques/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://absolutegospel.fr/absolute-gospel-2026-preparation/,Contenu faible (118 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+post,https://absolutegospel.fr/absolute-gospel-2026-preparation/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://absolutegospel.fr/festival-absolute-gospel-programmation-2025/,Contenu faible (125 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+post,https://absolutegospel.fr/festival-absolute-gospel-programmation-2025/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://absolutegospel.fr/festival_absolute-gospel-2024-20eme_edition/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://absolutegospel.fr/jam-gospel/,Contenu faible (77 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+post,https://absolutegospel.fr/jam-gospel/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://absolutegospel.fr/le-gospel-show/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/,Contenu faible (88 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+post,https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://absolutegospel.fr/masterclassgospel/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://absolutegospel.fr/michael-ashantiet-la-jaama/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://absolutegospel.fr/only-gospelsingers/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://absolutegospel.fr/soiree-comedies-musicales/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+category,https://absolutegospel.fr/category/uncategorized/,2 H1,P3,Un seul H1,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/absolute-gospel-2026-preparation/,1 image(s) sans ALT,P3,ALT descriptif,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/absolute-gospel-2026-preparation/,Titre long (78 car.),P3,Raccourcir à ~50-60 car.,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/festival-absolute-gospel-programmation-2025/,1 image(s) sans ALT,P3,ALT descriptif,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/festival_absolute-gospel-2024-20eme_edition/,1 image(s) sans ALT,P3,ALT descriptif,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/festival_absolute-gospel-2024-20eme_edition/,Titre long (115 car.),P3,Raccourcir à ~50-60 car.,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/jam-gospel/,1 image(s) sans ALT,P3,ALT descriptif,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/la-jaama-gospel/,1 image(s) sans ALT,P3,ALT descriptif,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/,1 image(s) sans ALT,P3,ALT descriptif,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/,Titre long (80 car.),P3,Raccourcir à ~50-60 car.,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/masterclassgospel/,1 image(s) sans ALT,P3,ALT descriptif,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/michael-ashantiet-la-jaama/,1 image(s) sans ALT,P3,ALT descriptif,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/only-gospelsingers/,1 image(s) sans ALT,P3,ALT descriptif,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/,1 image(s) sans ALT,P3,ALT descriptif,Niveau 2 – lot groupé
+post,https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/,Titre long (75 car.),P3,Raccourcir à ~50-60 car.,Niveau 2 – lot groupé

@@ -6,14 +6,14 @@ Demande de Sabine du 24/11/2026 : le SEO doit renforcer **deux identités compl�
 
 Le gospel est aussi un **atout de différenciation** pour le coaching : peu de coachs vocaux lyonnais ont ce parcours de scène et de direction de chœur.
 
-> Nom du festival : le site emploie « **Absolute Gospel** ». Votre message dit « Absolue gospel » : je retiens « Absolute Gospel », **à confirmer**.
+> Nom du festival : **Festival Absolute Gospel**, confirmé le 24/11/2026. Écosystème des 4 sites : `docs/ecosystem.md`.
 
 ## 1. Une intention de recherche = une page
 
 | Recherche visée | Page cible (existante) | État au 24/11 | Action |
 |---|---|---|---|
 | Sabine Kouli (marque), chanteuse gospel Lyon, cheffe de chœur gospel Lyon | **Bio** `/sabine-kouli-chanteuse-gospel/` (97) | titre « Sabine Kouli - Sabine Kouli », 4 images sans ALT, 1 lien en 404 | titre, méta, ALT, lien. Parcours enrichi par vous : 25 ans, chœurs dirigés, scènes (Opéra de Lyon, etc.) |
-| chorale gospel Lyon, chœur gospel Lyon, rejoindre une chorale gospel | **La Jaama** `/sabine-kouli-concerts-groupes/chorale-gospel-la-jaama/` (121) | 459 mots, **13 images sans ALT**, sans méta | page de recrutement : répétitions, niveau, comment rejoindre (infos réelles à fournir), CTA |
+| (cheffe de chœur de La Jaama ; la recherche « chorale gospel » revient à **lajaama.fr**) | **La Jaama** `/sabine-kouli-concerts-groupes/chorale-gospel-la-jaama/` (121) | 459 mots, **13 images sans ALT**, sans méta | ⚠️ **Rectifié le 24/11** : le recrutement revient à **lajaama.fr**. Cette page présente la chorale et votre rôle de cheffe de chœur, puis renvoie vers lajaama.fr (« Rejoindre la chorale gospel La Jaama »). On peut citer le mardi 19 h – 21 h et la Maison Ferber, sans recopier la page Rejoindre. ALT et méta à faire |
 | chanteuse gospel mariage Lyon, gospel mariage, chanteuse pour cérémonie | **Événements privés** `.../je-chante-pour-votre-evenement/` (294) | **94 mots**, 9 images sans ALT, titre « Evènements privés » | forte valeur commerciale, page à enrichir en priorité |
 | animation gospel entreprise, team building chant gospel | **Team building** (296) | 328 mots | titre, méta, ALT |
 | stage gospel Lyon, stage negro-spirituals | **Stage Gospel et Negro-spirituals** (744) | 141 mots | enrichir, avec dates **réelles** uniquement |
@@ -65,8 +65,5 @@ Les 25 articles d'actualité WordPress sur le gospel (concerts, saisons, festiva
 
 ## 5. Informations à fournir (rien ne sera inventé)
 
-- Confirmation du nom du festival (Absolute Gospel) et de l'année de création.
 - Votre rôle exact dans chaque formation (fondatrice, directrice, soliste).
-- La Jaama : jour et lieu de répétition, niveau requis, modalités pour rejoindre (si le recrutement est ouvert).
 - Références de scène vérifiables à mettre en avant (Opéra de Lyon, festivals, partenaires).
-- Accès à absolutegospel.fr : même procédure de connexion, en tant que site séparé.

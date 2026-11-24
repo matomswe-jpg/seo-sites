@@ -1,0 +1,1197 @@
+{
+ "results": [
+  {
+   "type": "page",
+   "id": 173,
+   "url": "https://lajaama.fr/agenda/",
+   "slug": "agenda",
+   "count": null,
+   "modified": "2025-09-01T13:20:20",
+   "wp_title": "Agenda",
+   "status": 200,
+   "final_url": "https://lajaama.fr/agenda/",
+   "redirects": [],
+   "html_kb": 90,
+   "litespeed": null,
+   "title": "Agenda – LA JAAMA – Chorale Gospel de Lyon",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://lajaama.fr/agenda/",
+   "og_title": null,
+   "h1": [
+    "Agenda"
+   ],
+   "h2": [
+    "Toutes les infos concert et évènements",
+    "Recent Posts",
+    "Recent Comments",
+    "Archives",
+    "Categories",
+    "Recent Posts",
+    "Social Links",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [
+    "sur le site de Sabine Kouli"
+   ],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://lajaama.fr/",
+    "https://lajaama.fr/2024/01/",
+    "https://lajaama.fr/2025/08/",
+    "https://lajaama.fr/actualite-la-jaama-1/",
+    "https://lajaama.fr/actualite-la-jaama-2/",
+    "https://lajaama.fr/actualite-la-jaama-3/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/category/news/",
+    "https://lajaama.fr/category/uncategorized/",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://sabinekouli.com/agenda",
+    "https://wordpress.org/",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 17,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (17 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 12
+  },
+  {
+   "type": "page",
+   "id": 164,
+   "url": "https://lajaama.fr/chorale_la_jaama_photos/",
+   "slug": "chorale_la_jaama_photos",
+   "count": null,
+   "modified": "2025-09-01T13:28:02",
+   "wp_title": "Images",
+   "status": 200,
+   "final_url": "https://lajaama.fr/chorale_la_jaama_photos/",
+   "redirects": [],
+   "html_kb": 114,
+   "litespeed": null,
+   "title": "Images – LA JAAMA – Chorale Gospel de Lyon",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://lajaama.fr/chorale_la_jaama_photos/",
+   "og_title": null,
+   "h1": [
+    "Images"
+   ],
+   "h2": [
+    "Recent Posts",
+    "Recent Comments",
+    "Archives",
+    "Categories",
+    "Recent Posts",
+    "Social Links",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_008-1024x346.jpg",
+     "alt": "",
+     "w": "1024",
+     "h": "346"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_011.jpg",
+     "alt": "",
+     "w": "950",
+     "h": "534"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_012.jpg",
+     "alt": "",
+     "w": "960",
+     "h": "640"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_009-1024x576.jpg",
+     "alt": "",
+     "w": "1024",
+     "h": "576"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "",
+     "w": "639",
+     "h": "639"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_008-1024x683.jpg",
+     "alt": "",
+     "w": "1024",
+     "h": "683"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_007-1024x766.jpg",
+     "alt": "",
+     "w": "1024",
+     "h": "766"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_005.jpg",
+     "alt": "",
+     "w": "1024",
+     "h": "768"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_006-1024x681.jpg",
+     "alt": "",
+     "w": "1024",
+     "h": "681"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_004-1-1024x683.jpg",
+     "alt": "",
+     "w": "1024",
+     "h": "683"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon-1-1024x683.jpg",
+     "alt": "",
+     "w": "1024",
+     "h": "683"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/JAAMA_CHORALE_GOSPEL_LYON_festival_absolute_gospel_lyon_2025_004-683x1024.jpg",
+     "alt": "",
+     "w": "683",
+     "h": "1024"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_004-1024x683.jpg",
+     "alt": "",
+     "w": "1024",
+     "h": "683"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_002-1024x683.jpg",
+     "alt": "",
+     "w": "1024",
+     "h": "683"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon-1024x683.jpg",
+     "alt": "",
+     "w": "1024",
+     "h": "683"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/JAAMA_CHORALE_GOSPEL_LYON_festival_absolute_gospel_lyon_2025_001-1024x768.jpeg",
+     "alt": "",
+     "w": "1024",
+     "h": "768"
+    },
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/08/JAAMA_CHORALE_GOSPEL_LYON_festival_absolute_gospel_lyon_2025_002.jpg",
+     "alt": "La Jaama chorale gospel lyonnaise",
+     "w": "632",
+     "h": "632"
+    }
+   ],
+   "img_missing_alt": 16,
+   "internal_links": [
+    "https://lajaama.fr/",
+    "https://lajaama.fr/2024/01/",
+    "https://lajaama.fr/2025/08/",
+    "https://lajaama.fr/actualite-la-jaama-1/",
+    "https://lajaama.fr/actualite-la-jaama-2/",
+    "https://lajaama.fr/actualite-la-jaama-3/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/category/news/",
+    "https://lajaama.fr/category/uncategorized/",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://wordpress.org/",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 20,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P3",
+     "16 image(s) sans ALT",
+     "ALT descriptif"
+    ],
+    [
+     "P2",
+     "Contenu faible (20 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 13
+  },
+  {
+   "type": "page",
+   "id": 139,
+   "url": "https://lajaama.fr/ecouter_la_jaama/",
+   "slug": "ecouter_la_jaama",
+   "count": null,
+   "modified": "2025-09-01T13:31:13",
+   "wp_title": "Son",
+   "status": 200,
+   "final_url": "https://lajaama.fr/ecouter_la_jaama/",
+   "redirects": [],
+   "html_kb": 92,
+   "litespeed": null,
+   "title": "Son – LA JAAMA – Chorale Gospel de Lyon",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://lajaama.fr/ecouter_la_jaama/",
+   "og_title": null,
+   "h1": [
+    "Son"
+   ],
+   "h2": [
+    "Recent Posts",
+    "Recent Comments",
+    "Archives",
+    "Categories",
+    "Recent Posts",
+    "Social Links",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://lajaama.fr/",
+    "https://lajaama.fr/2024/01/",
+    "https://lajaama.fr/2025/08/",
+    "https://lajaama.fr/actualite-la-jaama-1/",
+    "https://lajaama.fr/actualite-la-jaama-2/",
+    "https://lajaama.fr/actualite-la-jaama-3/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/category/news/",
+    "https://lajaama.fr/category/uncategorized/",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://wordpress.org/",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 0,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (0 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 12
+  },
+  {
+   "type": "page",
+   "id": 5,
+   "url": "https://lajaama.fr/contact_lajaama_gospel/",
+   "slug": "contact_lajaama_gospel",
+   "count": null,
+   "modified": "2025-09-01T13:01:38",
+   "wp_title": "Contact",
+   "status": 200,
+   "final_url": "https://lajaama.fr/contact_lajaama_gospel/",
+   "redirects": [],
+   "html_kb": 95,
+   "litespeed": null,
+   "title": "Contact – LA JAAMA – Chorale Gospel de Lyon",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://lajaama.fr/contact_lajaama_gospel/",
+   "og_title": null,
+   "h1": [
+    "Contact"
+   ],
+   "h2": [
+    "Recent Posts",
+    "Recent Comments",
+    "Archives",
+    "Categories",
+    "Recent Posts",
+    "Social Links",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://lajaama.fr/",
+    "https://lajaama.fr/2024/01/",
+    "https://lajaama.fr/2025/08/",
+    "https://lajaama.fr/actualite-la-jaama-1/",
+    "https://lajaama.fr/actualite-la-jaama-2/",
+    "https://lajaama.fr/actualite-la-jaama-3/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/category/news/",
+    "https://lajaama.fr/category/uncategorized/",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://g.co/kgs/v9H2JRe",
+    "https://wordpress.org/",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 49,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (49 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 12
+  },
+  {
+   "type": "page",
+   "id": 15,
+   "url": "https://lajaama.fr/blog/",
+   "slug": "blog",
+   "count": null,
+   "modified": "2024-01-04T11:36:08",
+   "wp_title": "Blog",
+   "status": 200,
+   "final_url": "https://lajaama.fr/blog/",
+   "redirects": [],
+   "html_kb": 92,
+   "litespeed": null,
+   "title": "Blog – LA JAAMA – Chorale Gospel de Lyon",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": null,
+   "og_title": null,
+   "h1": [
+    "Blog"
+   ],
+   "h2": [
+    "Actualité la Jaama 1",
+    "Actualité la Jaama 2",
+    "Actualité la Jaama 3",
+    "Recent Posts",
+    "Recent Comments",
+    "Archives",
+    "Categories",
+    "Recent Posts",
+    "Social Links",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://lajaama.fr/",
+    "https://lajaama.fr/2024/01/",
+    "https://lajaama.fr/2025/08/",
+    "https://lajaama.fr/actualite-la-jaama-1/",
+    "https://lajaama.fr/actualite-la-jaama-2/",
+    "https://lajaama.fr/actualite-la-jaama-3/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/category/news/",
+    "https://lajaama.fr/category/uncategorized/",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://wordpress.org/",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 33,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (33 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 12
+  },
+  {
+   "type": "page",
+   "id": 14,
+   "url": "https://lajaama.fr/",
+   "slug": "lajaama",
+   "count": null,
+   "modified": "2025-09-01T12:30:36",
+   "wp_title": "Home",
+   "status": 200,
+   "final_url": "https://lajaama.fr/",
+   "redirects": [],
+   "html_kb": 85,
+   "litespeed": null,
+   "title": "LA JAAMA – Chorale Gospel de Lyon – Unis par la voix, portés par l’âme du gospel",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://lajaama.fr/",
+   "og_title": null,
+   "h1": [],
+   "h2": [
+    "LaJaama",
+    "Soul, groove et gospel moderne",
+    "une véritable mosaïque de cultures et d’origines ethniques",
+    "La Jaama est référence du gospel lyonnais !",
+    "Pour les yeux et les oreilles",
+    "Voir",
+    "Ecoutez",
+    "En photos",
+    "Suivez nous Instagram",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [
+    "Chorale Gospel de Lyon",
+    "Chorale La Jaama",
+    "Quand une vingtaine de voix uniques se rencontrent",
+    "Chorale Gospel",
+    "Chorale la Jaama Lyon",
+    "La jaama"
+   ],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "http://lajaama.fr/wp-content/uploads/2025/09/JAAMA_CHORALE_GOSPEL_LYON_festival_absolute_gospel_lyon_2025_001.jpeg",
+    "http://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_002.jpg",
+    "http://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_006.jpg",
+    "http://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_008.jpg",
+    "http://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_011.jpg",
+    "http://lajaama.fr/wp-content/uploads/2025/09/lajaama_chorale_gospel_lyon_012.jpg",
+    "https://lajaama.fr/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/chorale_la_jaama_photos",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 5,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P3",
+     "Titre long (80 car.)",
+     "Raccourcir à ~50-60 car."
+    ],
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Aucun H1",
+     "Ajouter un H1 unique"
+    ],
+    [
+     "P2",
+     "Contenu faible (5 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 12
+  },
+  {
+   "type": "page",
+   "id": 13,
+   "url": "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/",
+   "slug": "lajaama_chorale_gospel_lyon-2",
+   "count": null,
+   "modified": "2025-09-01T12:30:52",
+   "wp_title": "La Jaama",
+   "status": 200,
+   "final_url": "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/",
+   "redirects": [],
+   "html_kb": 92,
+   "litespeed": null,
+   "title": "La Jaama – LA JAAMA – Chorale Gospel de Lyon",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/",
+   "og_title": null,
+   "h1": [
+    "La Jaama"
+   ],
+   "h2": [
+    "Chorale Gospel Lyonnaise",
+    "Sabine Kouli – Fondatrice et cheffe de choeur",
+    "Recent Posts",
+    "Recent Comments",
+    "Archives",
+    "Categories",
+    "Recent Posts",
+    "Social Links",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [
+    "La Jaama est la référence du gospel lyonnais !",
+    "Chanter du gospel à Lyon avec La Jaama"
+   ],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://lajaama.fr/",
+    "https://lajaama.fr/2024/01/",
+    "https://lajaama.fr/2025/08/",
+    "https://lajaama.fr/actualite-la-jaama-1/",
+    "https://lajaama.fr/actualite-la-jaama-2/",
+    "https://lajaama.fr/actualite-la-jaama-3/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/category/news/",
+    "https://lajaama.fr/category/uncategorized/",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://wordpress.org/",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 340,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 12
+  },
+  {
+   "type": "post",
+   "id": 1,
+   "url": "https://lajaama.fr/actualite-la-jaama-1/",
+   "slug": "actualite-la-jaama-1",
+   "count": null,
+   "modified": "2025-09-02T14:35:31",
+   "wp_title": "Actualité la Jaama 1",
+   "status": 200,
+   "final_url": "https://lajaama.fr/actualite-la-jaama-1/",
+   "redirects": [],
+   "html_kb": 90,
+   "litespeed": null,
+   "title": "Actualité la Jaama 1 – LA JAAMA – Chorale Gospel de Lyon",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://lajaama.fr/actualite-la-jaama-1/",
+   "og_title": null,
+   "h1": [
+    "Actualité la Jaama 1"
+   ],
+   "h2": [
+    "Navigation de l’article",
+    "Recent Posts",
+    "Recent Comments",
+    "Archives",
+    "Categories",
+    "Recent Posts",
+    "Social Links",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://lajaama.fr/",
+    "https://lajaama.fr/2024/01/",
+    "https://lajaama.fr/2025/08/",
+    "https://lajaama.fr/actualite-la-jaama-1/",
+    "https://lajaama.fr/actualite-la-jaama-2/",
+    "https://lajaama.fr/actualite-la-jaama-3/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/author/jp_jaam_chorale/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/category/news/",
+    "https://lajaama.fr/category/uncategorized/",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://wordpress.org/",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 18,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (18 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 11
+  },
+  {
+   "type": "post",
+   "id": 56,
+   "url": "https://lajaama.fr/actualite-la-jaama-2/",
+   "slug": "actualite-la-jaama-2",
+   "count": null,
+   "modified": "2025-09-02T14:35:41",
+   "wp_title": "Actualité la Jaama 2",
+   "status": 200,
+   "final_url": "https://lajaama.fr/actualite-la-jaama-2/",
+   "redirects": [],
+   "html_kb": 90,
+   "litespeed": null,
+   "title": "Actualité la Jaama 2 – LA JAAMA – Chorale Gospel de Lyon",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://lajaama.fr/actualite-la-jaama-2/",
+   "og_title": null,
+   "h1": [
+    "Actualité la Jaama 2"
+   ],
+   "h2": [
+    "Navigation de l’article",
+    "Recent Posts",
+    "Recent Comments",
+    "Archives",
+    "Categories",
+    "Recent Posts",
+    "Social Links",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://lajaama.fr/",
+    "https://lajaama.fr/2024/01/",
+    "https://lajaama.fr/2025/08/",
+    "https://lajaama.fr/actualite-la-jaama-1/",
+    "https://lajaama.fr/actualite-la-jaama-2/",
+    "https://lajaama.fr/actualite-la-jaama-3/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/author/jp_jaam_chorale/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/category/news/",
+    "https://lajaama.fr/category/uncategorized/",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://wordpress.org/",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 22,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (22 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 11
+  },
+  {
+   "type": "post",
+   "id": 55,
+   "url": "https://lajaama.fr/actualite-la-jaama-3/",
+   "slug": "actualite-la-jaama-3",
+   "count": null,
+   "modified": "2025-09-02T14:36:00",
+   "wp_title": "Actualité la Jaama 3",
+   "status": 200,
+   "final_url": "https://lajaama.fr/actualite-la-jaama-3/",
+   "redirects": [],
+   "html_kb": 90,
+   "litespeed": null,
+   "title": "Actualité la Jaama 3 – LA JAAMA – Chorale Gospel de Lyon",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": "https://lajaama.fr/actualite-la-jaama-3/",
+   "og_title": null,
+   "h1": [
+    "Actualité la Jaama 3"
+   ],
+   "h2": [
+    "Navigation de l’article",
+    "Recent Posts",
+    "Recent Comments",
+    "Archives",
+    "Categories",
+    "Recent Posts",
+    "Social Links",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://lajaama.fr/",
+    "https://lajaama.fr/2024/01/",
+    "https://lajaama.fr/2025/08/",
+    "https://lajaama.fr/actualite-la-jaama-1/",
+    "https://lajaama.fr/actualite-la-jaama-2/",
+    "https://lajaama.fr/actualite-la-jaama-3/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/author/jp_jaam_chorale/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/category/news/",
+    "https://lajaama.fr/category/uncategorized/",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://wordpress.org/",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 18,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (18 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 11
+  },
+  {
+   "type": "category",
+   "id": 2,
+   "url": "https://lajaama.fr/category/news/",
+   "slug": "news",
+   "count": 2,
+   "modified": null,
+   "wp_title": null,
+   "status": 200,
+   "final_url": "https://lajaama.fr/category/news/",
+   "redirects": [],
+   "html_kb": 91,
+   "litespeed": null,
+   "title": "News – LA JAAMA – Chorale Gospel de Lyon",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": null,
+   "og_title": null,
+   "h1": [
+    "News"
+   ],
+   "h2": [
+    "Actualité la Jaama 2",
+    "Actualité la Jaama 3",
+    "Recent Posts",
+    "Recent Comments",
+    "Archives",
+    "Categories",
+    "Recent Posts",
+    "Social Links",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://lajaama.fr/",
+    "https://lajaama.fr/2024/01/",
+    "https://lajaama.fr/2025/08/",
+    "https://lajaama.fr/actualite-la-jaama-1/",
+    "https://lajaama.fr/actualite-la-jaama-2/",
+    "https://lajaama.fr/actualite-la-jaama-3/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/category/news/",
+    "https://lajaama.fr/category/uncategorized/",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://wordpress.org/",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 22,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 11
+  },
+  {
+   "type": "category",
+   "id": 1,
+   "url": "https://lajaama.fr/category/uncategorized/",
+   "slug": "uncategorized",
+   "count": 1,
+   "modified": null,
+   "wp_title": null,
+   "status": 200,
+   "final_url": "https://lajaama.fr/category/uncategorized/",
+   "redirects": [],
+   "html_kb": 90,
+   "litespeed": null,
+   "title": "Uncategorized – LA JAAMA – Chorale Gospel de Lyon",
+   "meta_description": null,
+   "robots": "max-image-preview:large",
+   "canonical": null,
+   "og_title": null,
+   "h1": [
+    "Uncategorized"
+   ],
+   "h2": [
+    "Actualité la Jaama 1",
+    "Recent Posts",
+    "Recent Comments",
+    "Archives",
+    "Categories",
+    "Recent Posts",
+    "Social Links",
+    "Chorale la Jaama",
+    "Menu",
+    "Sur les réseaux",
+    ""
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://lajaama.fr/wp-content/uploads/2025/09/cropped-lajaama_chorale_gospel_lyon_010.jpg",
+     "alt": "LA JAAMA – Chorale Gospel de Lyon",
+     "w": "639",
+     "h": "639"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://lajaama.fr/",
+    "https://lajaama.fr/2024/01/",
+    "https://lajaama.fr/2025/08/",
+    "https://lajaama.fr/actualite-la-jaama-1/",
+    "https://lajaama.fr/actualite-la-jaama-2/",
+    "https://lajaama.fr/actualite-la-jaama-3/",
+    "https://lajaama.fr/agenda/",
+    "https://lajaama.fr/blog/",
+    "https://lajaama.fr/category/news/",
+    "https://lajaama.fr/category/uncategorized/",
+    "https://lajaama.fr/chorale_la_jaama_photos/",
+    "https://lajaama.fr/contact",
+    "https://lajaama.fr/contact_lajaama_gospel/",
+    "https://lajaama.fr/ecouter_la_jaama/",
+    "https://lajaama.fr/lajaama_chorale_gospel_lyon-2/"
+   ],
+   "external_links": [
+    "http://Sabinekouli.com",
+    "http://baobabetcie.fr",
+    "http://www.absolutegospel.fr",
+    "https://wordpress.org/",
+    "https://www.facebook.com/JaamaGospel",
+    "https://www.facebook.com/JaamaGospel/photos",
+    "https://www.instagram.com/jaama_gospel",
+    "https://www.youtube.com/@SabineKouli/videos"
+   ],
+   "jsonld_types": [],
+   "words": 11,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 11
+  }
+ ],
+ "broken_internal": {
+  "https://lajaama.fr/contact": [
+   301,
+   "https://lajaama.fr/contact_lajaama_gospel/"
+  ]
+ }
+}

@@ -1,0 +1,28 @@
+type,URL,Problème constaté,Priorité,Correction recommandée,Action à réaliser
+category,https://baobabetcie.fr/category/news/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+category,https://baobabetcie.fr/category/news/,Titre court/peu descriptif (19 car.),P2,Titre SEO descriptif,Niveau 2 – à préparer
+category,https://baobabetcie.fr/category/uncategorized/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://baobabetcie.fr/,Aucun H1,P2,Ajouter un H1 unique,Niveau 2 – à préparer
+page,https://baobabetcie.fr/,Contenu faible (14 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+page,https://baobabetcie.fr/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://baobabetcie.fr/activites/,Contenu faible (0 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+page,https://baobabetcie.fr/activites/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://baobabetcie.fr/blog/,Contenu faible (112 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+page,https://baobabetcie.fr/blog/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://baobabetcie.fr/blog/,Titre court/peu descriptif (19 car.),P2,Titre SEO descriptif,Niveau 2 – à préparer
+page,https://baobabetcie.fr/contact/,Contenu faible (109 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+page,https://baobabetcie.fr/contact/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://baobabetcie.fr/qui-sommes-nous/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://baobabetcie.fr/sample-page-2/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://baobabetcie.fr/sample-page-2/,Titre dupliqué (2x),P2,Titre unique,Niveau 2 – à préparer
+page,https://baobabetcie.fr/sample-page/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+page,https://baobabetcie.fr/sample-page/,Titre dupliqué (2x),P2,Titre unique,Niveau 2 – à préparer
+post,https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/,Contenu faible (45 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+post,https://baobabetcie.fr/dont-miss-the-importance-of-jazz-music-drumming/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://baobabetcie.fr/hello-world/,Contenu faible (34 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+post,https://baobabetcie.fr/hello-world/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/,Contenu faible (43 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+post,https://baobabetcie.fr/news-guide-to-buying-adaptive-musical-instruments/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/,Contenu faible (52 mots),P2,"Enrichir, fusionner ou noindex",Niveau 2 – à préparer
+post,https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/,Méta-description absente,P2,Rédiger 120-155 car.,Niveau 2 – à préparer
+post,https://baobabetcie.fr/string-instrument-care-for-winter-tropical-climates/,Titre long (68 car.),P3,Raccourcir à ~50-60 car.,Niveau 2 – lot groupé

@@ -137,3 +137,10 @@ Demande : renforcer aussi l'identité chanteuse gospel, cheffe de chœur gospel 
 - Schema : `founder` → festival, `MusicGroup` pour les formations.
 - absolutegospel.fr : lien et mention « fondé par Sabine Kouli » à ajouter (site séparé).
 - 7e pilier éditorial : « Gospel, chœur et spirituals ».
+
+## Mise à jour du 24/11/2026 : écosystème des 4 sites
+
+- Titre d'accueil *Sabine Kouli – Chanteuse gospel et coach vocal à Lyon* : **approuvé** par Sabine le 24/11/2026. À exécuter dès que l'accès est en place (lecture de l'état initial, modification, puis contrôle du HTML publié).
+- Liens vers lajaama.fr, absolutegospel.fr et baobabetcie.fr : voir `docs/ecosystem.md` §3 (pages 97, 121, 267, 301, pied de page).
+- Schema : Person `@id` = `https://sabinekouli.com/#person` (identifiant partagé par les 4 sites).
+- Fiche Google Sabine Kouli : zone desservie recommandée (voir ecosystem §5), à décider.

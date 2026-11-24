@@ -70,3 +70,31 @@
 - Les réglages globaux de Yoast (taxonomies, archives, représentation du site) passent par l'administration ou par WP-CLI (`wp option`), avec `wpseo_manage_options`.
 - Les redirections 301 se font avec Yoast Premium, l'extension « Redirection », ou un fichier `.htaccess` (OVH/Apache). Chacune demande votre accord et n'est pas faisable avec le rôle Éditeur.
 - Google Business Profile : aucun accès depuis WordPress. C'est une mission séparée, avec des textes préparés pour validation.
+
+## 5. Accès aux 4 sites (mise à jour du 24/11/2026)
+
+Constat commun : sur sabinekouli.com, lajaama.fr, absolutegospel.fr et baobabetcie.fr, **Wordfence est actif** et les Application Passwords **ne sont pas exposées**. La même procédure s'applique **à chaque site, séparément**.
+
+### Sur chaque site (environ 5 minutes par site, avec un compte administrateur)
+
+1. *Wordfence > Login Security > Paramètres* : décochez **« Disable WordPress application passwords »**, puis enregistrez.
+2. *Utilisateurs > Ajouter* : identifiant `seo-technique`, une adresse e-mail que vous contrôlez, rôle **Éditeur**.
+3. Déconnectez-vous, puis connectez-vous en tant que `seo-technique`. Allez dans *Profil > Mots de passe d'application*, saisissez le nom `claude-code-seo`, cliquez sur **Ajouter**, puis copiez le mot de passe affiché (il ne réapparaît plus).
+4. **Ne collez jamais ce mot de passe dans la conversation.**
+
+Les réglages Yoast globaux et l'installation d'extensions demandent les droits administrateur. Ces opérations restent faites par vous, guidées pas à pas, ou par un rôle accordé temporairement.
+
+### Transmission sécurisée (session cloud Claude Code)
+
+Je vous affiche un **formulaire sécurisé** par site (un hôte = un secret) :
+- vous saisissez l'identifiant `seo-technique` et le mot de passe d'application ;
+- le secret est enregistré dans les *network secrets* de votre environnement cloud. Le proxy l'ajoute uniquement aux requêtes vers **cet** hôte. Le secret n'apparaît jamais dans la conversation, les fichiers ou Git ;
+- `sites/<site>/.env.local` contient alors seulement `WP_AUTH_MODE=proxy` (aucun secret) ;
+- cet environnement est votre environnement **Default** (personnel) : le secret servira aussi à vos futures sessions cloud, ce qui évite de recommencer à chaque fois ;
+- pour révoquer : supprimer le mot de passe d'application dans WordPress, effet immédiat. Le secret peut aussi être retiré dans les réglages de l'environnement.
+
+Alternative en local (Claude Code sur votre ordinateur) : `sites/<site>/.env.local` avec `WP_USER` et `WP_APP_PASSWORD`, fichier ignoré par Git.
+
+### Vérification
+
+`python3 scripts/check_connection.py <site>` : authentification, rôle, `wpseo_edit_advanced_metadata`, abilities `yoast-seo/*`, lecture en mode édition.

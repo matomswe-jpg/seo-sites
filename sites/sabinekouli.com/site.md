@@ -23,7 +23,7 @@ Source de vérité pour les contenus, le NAP et le Schema. Tout élément marqu�
 | Site | https://sabinekouli.com/ | |
 | Réservation | https://calendly.com/festivalabsolutegospel/cours-de-technique-vocale | constaté sur la page coaching |
 | Zones desservies | Caluire-et-Cuire, Lyon, Croix-Rousse, Lyon 4e, Rillieux-la-Pape, Villeurbanne | fournies |
-| Lien fiche Google (CID / Maps) | ? | **[À VALIDER]** |
+| Lien fiche Google | https://g.co/kgs/zUP8xPZ (kgmid /g/11vcm_x5td) | fourni le 24/11/2026 |
 | Salle habituelle (« Saint-Exupéry ») | mentionnée dans le plan | **[À VALIDER]** |
 
 ## Profils officiels (trouvés dans les liens du site)
@@ -44,5 +44,6 @@ Tarifs, témoignages, diplômes et qualifications, horaires des cours.
 - Étapes : ajouter l'enregistrement TXT chez OVH, puis cliquer sur « Valider » dans Search Console.
 
 ## Encore à valider
-- Nom exact de la fiche Google Business Profile.
+- Nom exact de la fiche Google Business Profile (le lien est fourni, mais le nom n'est pas lisible sans accès).
+- Adresse de la fiche : zone desservie recommandée (même adresse et même téléphone que La Jaama), voir docs/ecosystem.md §5.
 - Offre d'hébergement OVH.

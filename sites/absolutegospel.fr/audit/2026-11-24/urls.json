@@ -1,0 +1,2547 @@
+{
+ "results": [
+  {
+   "type": "page",
+   "id": 222,
+   "url": "https://absolutegospel.fr/a-propos/",
+   "slug": "a-propos",
+   "count": null,
+   "modified": "2025-08-04T16:26:51",
+   "wp_title": "A propos",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/a-propos/",
+   "redirects": [],
+   "html_kb": 89,
+   "litespeed": null,
+   "title": "A propos - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/a-propos/",
+   "og_title": "A propos - Festival Absolute Gospel",
+   "h1": [
+    "A propos"
+   ],
+   "h2": [
+    "Absolute Gospel, le 1er festival de Gospel à Lyon, depuis 2004",
+    "Innovation et tradition, au coeur de la programmation",
+    "Des éditions préparées avec passion",
+    "Rejoignez-nous",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Le rendez-vous incontournable du Gospel en Rhône-Alpes",
+    "Un festival de Gospel engagé et accessible",
+    "Des valeurs qui nous animent"
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "WebPage",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 374,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 25
+  },
+  {
+   "type": "page",
+   "id": 175,
+   "url": "https://absolutegospel.fr/infos-pratiques/",
+   "slug": "infos-pratiques",
+   "count": null,
+   "modified": "2025-08-04T13:39:19",
+   "wp_title": "Infos pratiques",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/infos-pratiques/",
+   "redirects": [],
+   "html_kb": 86,
+   "litespeed": null,
+   "title": "Infos pratiques - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/infos-pratiques/",
+   "og_title": "Infos pratiques - Festival Absolute Gospel",
+   "h1": [
+    "Infos pratiques"
+   ],
+   "h2": [
+    "Billetterie",
+    "Organisateur",
+    "Equipe",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Infoline Festival",
+    "Pour réserver en ligne",
+    "Association Baobab & Compagnie",
+    "Direction artistique & coordination générale",
+    "Billetterie, accueil du public",
+    "Régie technique",
+    "Responsable des partenariats"
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "WebPage",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 123,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (123 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 25
+  },
+  {
+   "type": "page",
+   "id": 13,
+   "url": "https://absolutegospel.fr/contact/",
+   "slug": "contact",
+   "count": null,
+   "modified": "2025-08-12T16:36:16",
+   "wp_title": "Contact",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/contact/",
+   "redirects": [],
+   "html_kb": 85,
+   "litespeed": null,
+   "title": "Contact - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/contact/",
+   "og_title": "Contact - Festival Absolute Gospel",
+   "h1": [
+    "Contact"
+   ],
+   "h2": [
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "WebPage",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 0,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Contenu faible (0 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 25
+  },
+  {
+   "type": "page",
+   "id": 12,
+   "url": "https://absolutegospel.fr/blog/",
+   "slug": "blog",
+   "count": null,
+   "modified": "2024-01-04T11:36:08",
+   "wp_title": "Blog",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/blog/",
+   "redirects": [],
+   "html_kb": 98,
+   "litespeed": null,
+   "title": "Blog - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/blog/",
+   "og_title": "Blog - Festival Absolute Gospel",
+   "h1": [
+    "Blog"
+   ],
+   "h2": [
+    "STAGE VOCAL COMEDIES MUSICALES AVEC SABINE KOULI",
+    "LA JAAMA GOSPEL",
+    "LE GOSPEL SHOW",
+    "SOIREE COMEDIES MUSICALES",
+    "ONLY GOSPEL SINGERS",
+    "LINDA LEE HOPKINS, GOSPEL JAM & FRIENDS, SABINE KOULI",
+    "MASTERCLASS GOSPEL",
+    "MICHAEL ASHANTI ET LA JAAMA",
+    "Jam Session Gospel",
+    "Programmation 2025, en bref",
+    "Pagination des publications",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/blog/page/2/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/festival-absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/jam-gospel/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/",
+    "https://absolutegospel.fr/masterclassgospel/",
+    "https://absolutegospel.fr/michael-ashantiet-la-jaama/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "WebPage,CollectionPage",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 276,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 25
+  },
+  {
+   "type": "page",
+   "id": 11,
+   "url": "https://absolutegospel.fr/",
+   "slug": "home",
+   "count": null,
+   "modified": "2024-01-04T11:36:04",
+   "wp_title": "Home",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/",
+   "redirects": [],
+   "html_kb": 73,
+   "litespeed": null,
+   "title": "Home - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/",
+   "og_title": "Home - Festival Absolute Gospel",
+   "h1": [],
+   "h2": [
+    "CHORISTES + MURIEL GIGAN + LISA CALDOGNETTO ET SABINE KOULI",
+    "LE GOSPEL SHOW",
+    "LA JAAMA GOSPEL",
+    "VOIX DE BROADWAY",
+    "L’aventure Absolute Gospel",
+    "Programmation 2026",
+    "MASTERCLASS COMEDIES MUSICALES",
+    "Du gospel dans les oreilles",
+    "Au cœur du Festival Absolute Gospel",
+    "STAGE VOCAL COMEDIES MUSICALES AVEC SABINE KOULI",
+    "LA JAAMA GOSPEL",
+    "LE GOSPEL SHOW",
+    "Suivez le Festival sur Instagram",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "REVIVRE LA MAGIE DES COMEDIES MUSICALES",
+    "CHOEUR ET DYNAMISME",
+    "EMOTIONS ET FORCE DES VOIX GOSPEL",
+    "MASTERCLASS COMEDIES MUSICALES",
+    "A propos",
+    "Festival Absolute Gospel - 22ème édition",
+    "Tracklist",
+    "Dernières nouvelles"
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.helloasso.com/associations/association-baobab-et-compagnie/evenements/masterclass-comedies-musicales-2026",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "WebPage",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 19,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P1",
+     "Titre générique « Home - Festival Absolute Gospel »",
+     "Titre SEO spécifique"
+    ],
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P2",
+     "Aucun H1",
+     "Ajouter un H1 unique"
+    ],
+    [
+     "P2",
+     "Contenu faible (19 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 25
+  },
+  {
+   "type": "page",
+   "id": 10,
+   "url": "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+   "slug": "festival-absolute-gospel-lyon",
+   "count": null,
+   "modified": "2025-08-04T13:06:48",
+   "wp_title": "Festival Absolute Gospel, la naissance",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+   "redirects": [],
+   "html_kb": 89,
+   "litespeed": null,
+   "title": "Festival Absolute Gospel, la naissance - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+   "og_title": "Festival Absolute Gospel, la naissance - Festival Absolute Gospel",
+   "h1": [
+    "Festival Absolute Gospel, la naissance"
+   ],
+   "h2": [
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "WebPage",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 461,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 25
+  },
+  {
+   "type": "post",
+   "id": 384,
+   "url": "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/",
+   "slug": "stage-vocal-comedies-musicales-avec-sabine-kouli",
+   "count": null,
+   "modified": "2026-05-27T20:38:19",
+   "wp_title": "STAGE VOCAL COMEDIES MUSICALES AVEC SABINE KOULI",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/",
+   "redirects": [],
+   "html_kb": 90,
+   "litespeed": null,
+   "title": "STAGE VOCAL COMEDIES MUSICALES AVEC SABINE KOULI - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/",
+   "og_title": "STAGE VOCAL COMEDIES MUSICALES AVEC SABINE KOULI - Festival Absolute Gospel",
+   "h1": [
+    "STAGE VOCAL COMEDIES MUSICALES AVEC SABINE KOULI"
+   ],
+   "h2": [
+    "4 SESSIONS",
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Projet Comédies Musicales – Nouvelle édition !",
+    "Un projet ouvert réunissant des choristes de divers horizons autour des plus grands titres de Broadway avec 3 solistes invitées."
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/7.png",
+     "alt": "",
+     "w": "1080",
+     "h": "1350"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 1,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/author/sabkouabsgospel/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 233,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P3",
+     "Titre long (75 car.)",
+     "Raccourcir à ~50-60 car."
+    ],
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P3",
+     "1 image(s) sans ALT",
+     "ALT descriptif"
+    ]
+   ],
+   "inbound_count": 25
+  },
+  {
+   "type": "post",
+   "id": 382,
+   "url": "https://absolutegospel.fr/la-jaama-gospel/",
+   "slug": "la-jaama-gospel",
+   "count": null,
+   "modified": "2026-05-27T20:41:20",
+   "wp_title": "LA JAAMA GOSPEL",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/la-jaama-gospel/",
+   "redirects": [],
+   "html_kb": 94,
+   "litespeed": null,
+   "title": "LA JAAMA GOSPEL - Festival Absolute Gospel",
+   "meta_description": "La Jaama offre une fusion de gospel contemporain et de chants africains. Ne manquez pas l'expérience du gospel pour une soirée exceptionnelle à Lyon",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/la-jaama-gospel/",
+   "og_title": "LA JAAMA GOSPEL - Festival Absolute Gospel",
+   "h1": [
+    "LA JAAMA GOSPEL"
+   ],
+   "h2": [
+    "SAMEDI 6 JUIN 2026 A 20H",
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Une invitation à vivre l’émotion unique du gospel à Lyon à travers la force du chant collectif et l’authenticité d’une formation passionnée."
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/JAAMA_CHORALE_GOSPEL_LYON_festival_absolute_gospel_lyon_2025_005.jpg",
+     "alt": "",
+     "w": "719",
+     "h": "736"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 1,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/author/sabkouabsgospel/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.helloasso.com/associations/association-baobab-et-compagnie/evenements/festival-absolute-gospel-2026",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 210,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P3",
+     "1 image(s) sans ALT",
+     "ALT descriptif"
+    ]
+   ],
+   "inbound_count": 25
+  },
+  {
+   "type": "post",
+   "id": 369,
+   "url": "https://absolutegospel.fr/le-gospel-show/",
+   "slug": "le-gospel-show",
+   "count": null,
+   "modified": "2026-05-27T20:42:23",
+   "wp_title": "LE GOSPEL SHOW",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/le-gospel-show/",
+   "redirects": [],
+   "html_kb": 92,
+   "litespeed": null,
+   "title": "LE GOSPEL SHOW - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/le-gospel-show/",
+   "og_title": "LE GOSPEL SHOW - Festival Absolute Gospel",
+   "h1": [
+    "LE GOSPEL SHOW"
+   ],
+   "h2": [
+    "SAMEDI 5 JUIN 2026 À 15H",
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Un ensemble vocal dynamique et passionné qui célèbre la richesse du Gospel à travers des messages d’espoir."
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/GOSPEL-SHOW-2-WEB-scaled.jpg",
+     "alt": "gospel Show",
+     "w": "2560",
+     "h": "1707"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/author/sabkouabsgospel/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.helloasso.com/associations/association-baobab-et-compagnie/evenements/festival-absolute-gospel-2026",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 300,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 25
+  },
+  {
+   "type": "post",
+   "id": 362,
+   "url": "https://absolutegospel.fr/soiree-comedies-musicales/",
+   "slug": "soiree-comedies-musicales",
+   "count": null,
+   "modified": "2026-05-27T21:47:44",
+   "wp_title": "SOIREE COMEDIES MUSICALES",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/soiree-comedies-musicales/",
+   "redirects": [],
+   "html_kb": 106,
+   "litespeed": null,
+   "title": "SOIREE COMEDIES MUSICALES - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/soiree-comedies-musicales/",
+   "og_title": "SOIREE COMEDIES MUSICALES - Festival Absolute Gospel",
+   "h1": [
+    "SOIREE COMEDIES MUSICALES"
+   ],
+   "h2": [
+    "VENDREDI 5 JUIN 2026 A 20H",
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Une immersion magistrale au cœur de Broadway et des plus grands chefs-d’œuvre afro-américains.",
+    ""
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/4.png",
+     "alt": "SOIREE COMEDIES MUSICALES LYON,",
+     "w": "1080",
+     "h": "1350"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/author/sabkouabsgospel/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 151,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 24
+  },
+  {
+   "type": "post",
+   "id": 264,
+   "url": "https://absolutegospel.fr/only-gospelsingers/",
+   "slug": "only-gospelsingers",
+   "count": null,
+   "modified": "2025-08-04T16:56:00",
+   "wp_title": "ONLY GOSPEL SINGERS",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/only-gospelsingers/",
+   "redirects": [],
+   "html_kb": 89,
+   "litespeed": null,
+   "title": "ONLY GOSPEL SINGERS - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/only-gospelsingers/",
+   "og_title": "ONLY GOSPEL SINGERS - Festival Absolute Gospel",
+   "h1": [
+    "ONLY GOSPEL SINGERS"
+   ],
+   "h2": [
+    "DIMANCHE 15 JUIN 2025 À 16H",
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Des coeurs battants lyonnais !"
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/only_gospel_singers_recadree.jpg",
+     "alt": "",
+     "w": "1920",
+     "h": "1118"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 1,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/author/gp_abs_gosp_festival/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 175,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P3",
+     "1 image(s) sans ALT",
+     "ALT descriptif"
+    ]
+   ],
+   "inbound_count": 24
+  },
+  {
+   "type": "post",
+   "id": 262,
+   "url": "https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/",
+   "slug": "linda-lee-hopkins-gospel-jam-friends-sabine-kouli",
+   "count": null,
+   "modified": "2025-08-04T14:44:51",
+   "wp_title": "LINDA LEE HOPKINS, GOSPEL JAM &amp; FRIENDS, SABINE KOULI",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/",
+   "redirects": [],
+   "html_kb": 89,
+   "litespeed": null,
+   "title": "LINDA LEE HOPKINS, GOSPEL JAM & FRIENDS, SABINE KOULI - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/",
+   "og_title": "LINDA LEE HOPKINS, GOSPEL JAM & FRIENDS, SABINE KOULI - Festival Absolute Gospel",
+   "h1": [
+    "LINDA LEE HOPKINS, GOSPEL JAM & FRIENDS, SABINE KOULI"
+   ],
+   "h2": [
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "SAMEDI 14 JUIN 2025 – À 20H"
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/Linda_lee_hopkins_absolute_gospel_2025_DSC05117-1.jpg",
+     "alt": "",
+     "w": "1920",
+     "h": "1280"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 1,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/author/gp_abs_gosp_festival/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/",
+    "https://absolutegospel.fr/masterclassgospel/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 88,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P3",
+     "Titre long (80 car.)",
+     "Raccourcir à ~50-60 car."
+    ],
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P3",
+     "1 image(s) sans ALT",
+     "ALT descriptif"
+    ],
+    [
+     "P2",
+     "Contenu faible (88 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 5
+  },
+  {
+   "type": "post",
+   "id": 258,
+   "url": "https://absolutegospel.fr/masterclassgospel/",
+   "slug": "masterclassgospel",
+   "count": null,
+   "modified": "2025-08-04T15:11:13",
+   "wp_title": "MASTERCLASS GOSPEL",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/masterclassgospel/",
+   "redirects": [],
+   "html_kb": 89,
+   "litespeed": null,
+   "title": "MASTERCLASS GOSPEL - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/masterclassgospel/",
+   "og_title": "MASTERCLASS GOSPEL - Festival Absolute Gospel",
+   "h1": [
+    "MASTERCLASS GOSPEL"
+   ],
+   "h2": [
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Stage gospel sur scène et en chœur"
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/Gospel_jam_and_friends_absolute_gospe_Concert-Sabine-Kouli-15-12-2018-Copyright-2018-002.jpg",
+     "alt": "",
+     "w": "1146",
+     "h": "686"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 1,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/author/gp_abs_gosp_festival/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/",
+    "https://absolutegospel.fr/masterclassgospel/",
+    "https://absolutegospel.fr/michael-ashantiet-la-jaama/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 151,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P3",
+     "1 image(s) sans ALT",
+     "ALT descriptif"
+    ]
+   ],
+   "inbound_count": 5
+  },
+  {
+   "type": "post",
+   "id": 256,
+   "url": "https://absolutegospel.fr/michael-ashantiet-la-jaama/",
+   "slug": "michael-ashantiet-la-jaama",
+   "count": null,
+   "modified": "2025-08-04T14:38:45",
+   "wp_title": "MICHAEL ASHANTI ET LA JAAMA",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/michael-ashantiet-la-jaama/",
+   "redirects": [],
+   "html_kb": 89,
+   "litespeed": null,
+   "title": "MICHAEL ASHANTI ET LA JAAMA - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/michael-ashantiet-la-jaama/",
+   "og_title": "MICHAEL ASHANTI ET LA JAAMA - Festival Absolute Gospel",
+   "h1": [
+    "MICHAEL ASHANTI ET LA JAAMA"
+   ],
+   "h2": [
+    "Vendredi 13 juin 2025 – 20h",
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Une fusion musicale vibrante et universelle"
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/LA-JAAMA.jpg",
+     "alt": "",
+     "w": "1920",
+     "h": "1057"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 1,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/author/gp_abs_gosp_festival/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/jam-gospel/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/masterclassgospel/",
+    "https://absolutegospel.fr/michael-ashantiet-la-jaama/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 272,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P3",
+     "1 image(s) sans ALT",
+     "ALT descriptif"
+    ]
+   ],
+   "inbound_count": 5
+  },
+  {
+   "type": "post",
+   "id": 253,
+   "url": "https://absolutegospel.fr/jam-gospel/",
+   "slug": "jam-gospel",
+   "count": null,
+   "modified": "2025-08-04T14:26:09",
+   "wp_title": "Jam Session Gospel",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/jam-gospel/",
+   "redirects": [],
+   "html_kb": 88,
+   "litespeed": null,
+   "title": "Jam Session Gospel - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/jam-gospel/",
+   "og_title": "Jam Session Gospel - Festival Absolute Gospel",
+   "h1": [
+    "Jam Session Gospel"
+   ],
+   "h2": [
+    "Mercredi 11 juin 2025 – 20h",
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Venez chanter avec nous !"
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/Absolutegospel_festival_COMEDIES-MUSICALES.jpg",
+     "alt": "",
+     "w": "1920",
+     "h": "1277"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 1,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/author/gp_abs_gosp_festival/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/festival-absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/jam-gospel/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/michael-ashantiet-la-jaama/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 77,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P3",
+     "1 image(s) sans ALT",
+     "ALT descriptif"
+    ],
+    [
+     "P2",
+     "Contenu faible (77 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 5
+  },
+  {
+   "type": "post",
+   "id": 207,
+   "url": "https://absolutegospel.fr/festival-absolute-gospel-programmation-2025/",
+   "slug": "festival-absolute-gospel-programmation-2025",
+   "count": null,
+   "modified": "2025-08-04T13:24:37",
+   "wp_title": "Programmation 2025, en bref",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/festival-absolute-gospel-programmation-2025/",
+   "redirects": [],
+   "html_kb": 90,
+   "litespeed": null,
+   "title": "Programmation 2025, en bref - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/festival-absolute-gospel-programmation-2025/",
+   "og_title": "Programmation 2025, en bref - Festival Absolute Gospel",
+   "h1": [
+    "Programmation 2025, en bref"
+   ],
+   "h2": [
+    "JAM GOSPEL",
+    "MICHAEL ASHANTI ET LA JAAMA",
+    "MASTERCLASS GOSPEL",
+    "LINDA LEE HOPKINS, GOSPEL JAM & FRIENDS, SABINE KOULI",
+    "ONLY GOSPEL SINGERS",
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "MERCREDI 11 JUIN 2025 À 20H",
+    "VENDREDI 13 JUIN 2025 À 20H",
+    "SAMEDI 14 JUIN 2025 DE 10H À 13H",
+    "Stage Gospel Spécial LINDA LEE HOPKINS & GOSPEL JAM",
+    "SAMEDI 14 JUIN 2025 À 20H",
+    "DIMANCHE 15 JUIN 2025 À 16H"
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/ABSOLUTE-GOSPEL_AFFICHE.jpg",
+     "alt": "",
+     "w": "1080",
+     "h": "1350"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 1,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/absolute-gospel-2026-preparation/",
+    "https://absolutegospel.fr/author/gp_abs_gosp_festival/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/festival-absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/jam-gospel/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 125,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P3",
+     "1 image(s) sans ALT",
+     "ALT descriptif"
+    ],
+    [
+     "P2",
+     "Contenu faible (125 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 5
+  },
+  {
+   "type": "post",
+   "id": 163,
+   "url": "https://absolutegospel.fr/absolute-gospel-2026-preparation/",
+   "slug": "absolute-gospel-2026-preparation",
+   "count": null,
+   "modified": "2026-05-27T17:19:05",
+   "wp_title": "2026 Absolute Gospel&#8230; La 22ème édition se prépare",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/absolute-gospel-2026-preparation/",
+   "redirects": [],
+   "html_kb": 88,
+   "litespeed": null,
+   "title": "2026 Absolute Gospel... La 22ème édition se prépare - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/absolute-gospel-2026-preparation/",
+   "og_title": "2026 Absolute Gospel... La 22ème édition se prépare - Festival Absolute Gospel",
+   "h1": [
+    "2026 Absolute Gospel… La 22ème édition se prépare"
+   ],
+   "h2": [
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Absolute Gospel 2026… bientôt dans vos c(h)oeurs ! Les 5 et 6 juin 2026 à la Salle Molière de Lyon!"
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/Absolute-2026.png",
+     "alt": "",
+     "w": "2000",
+     "h": "1410"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 1,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/absolute-gospel-2026-preparation/",
+    "https://absolutegospel.fr/author/gp_abs_gosp_festival/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/festival-absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/festival_absolute-gospel-2024-20eme_edition/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 118,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P3",
+     "Titre long (78 car.)",
+     "Raccourcir à ~50-60 car."
+    ],
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P3",
+     "1 image(s) sans ALT",
+     "ALT descriptif"
+    ],
+    [
+     "P2",
+     "Contenu faible (118 mots)",
+     "Enrichir, fusionner ou noindex"
+    ]
+   ],
+   "inbound_count": 4
+  },
+  {
+   "type": "post",
+   "id": 331,
+   "url": "https://absolutegospel.fr/festival_absolute-gospel-2024-20eme_edition/",
+   "slug": "festival_absolute-gospel-2024-20eme_edition",
+   "count": null,
+   "modified": "2026-05-27T20:46:08",
+   "wp_title": "Absolute Gospel 2024, une 20e édition anniversaire vibrante de passion et de voix gospel",
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/festival_absolute-gospel-2024-20eme_edition/",
+   "redirects": [],
+   "html_kb": 93,
+   "litespeed": null,
+   "title": "Absolute Gospel 2024, une 20e édition anniversaire vibrante de passion et de voix gospel - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/festival_absolute-gospel-2024-20eme_edition/",
+   "og_title": "Absolute Gospel 2024, une 20e édition anniversaire vibrante de passion et de voix gospel - Festival Absolute Gospel",
+   "h1": [
+    "Absolute Gospel 2024, une 20e édition anniversaire vibrante de passion et de voix gospel"
+   ],
+   "h2": [
+    "20 ans d’engagement pour la voix et le gospel à Lyon",
+    "Une édition 2024 haute en voix et en émotions",
+    "Un pont entre les continents, un héritage vivant",
+    "Navigation de l’article",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [
+    "Parmi les grandes voix invitées au fil des années :"
+   ],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/Absolutegospel_festival_COMEDIES-MUSICALES.jpg",
+     "alt": "",
+     "w": "1920",
+     "h": "1277"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 1,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/absolute-gospel-2026-preparation/",
+    "https://absolutegospel.fr/author/gp_abs_gosp_festival/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/festival_absolute-gospel-2024-20eme_edition/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "Article",
+    "WebPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "words": 447,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P3",
+     "Titre long (115 car.)",
+     "Raccourcir à ~50-60 car."
+    ],
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P3",
+     "1 image(s) sans ALT",
+     "ALT descriptif"
+    ]
+   ],
+   "inbound_count": 4
+  },
+  {
+   "type": "category",
+   "id": 2,
+   "url": "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+   "slug": "actualites-festival-absolute-gospel",
+   "count": 2,
+   "modified": null,
+   "wp_title": null,
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+   "redirects": [],
+   "html_kb": 92,
+   "litespeed": null,
+   "title": "Archives des Actualités - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+   "og_title": "Archives des Actualités - Festival Absolute Gospel",
+   "h1": [
+    "Actualités"
+   ],
+   "h2": [
+    "STAGE VOCAL COMEDIES MUSICALES AVEC SABINE KOULI",
+    "LA JAAMA GOSPEL",
+    "LE GOSPEL SHOW",
+    "SOIREE COMEDIES MUSICALES",
+    "2026 Absolute Gospel… La 22ème édition se prépare",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/absolute-gospel-2026-preparation/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 142,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 24
+  },
+  {
+   "type": "category",
+   "id": 4,
+   "url": "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+   "slug": "festival-absolute-gospel-precedentes-editions",
+   "count": 1,
+   "modified": null,
+   "wp_title": null,
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+   "redirects": [],
+   "html_kb": 87,
+   "litespeed": null,
+   "title": "Archives des Précédentes Editions - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+   "og_title": "Archives des Précédentes Editions - Festival Absolute Gospel",
+   "h1": [
+    "Précédentes Editions"
+   ],
+   "h2": [
+    "Absolute Gospel 2024, une 20e édition anniversaire vibrante de passion et de voix gospel",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/festival_absolute-gospel-2024-20eme_edition/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 37,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 24
+  },
+  {
+   "type": "category",
+   "id": 5,
+   "url": "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+   "slug": "absolute-gospel-programmation-2024",
+   "count": 1,
+   "modified": null,
+   "wp_title": null,
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+   "redirects": [],
+   "html_kb": 87,
+   "litespeed": null,
+   "title": "Archives des Programmation 2024 - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+   "og_title": "Archives des Programmation 2024 - Festival Absolute Gospel",
+   "h1": [
+    "Programmation 2024"
+   ],
+   "h2": [
+    "Absolute Gospel 2024, une 20e édition anniversaire vibrante de passion et de voix gospel",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/festival_absolute-gospel-2024-20eme_edition/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 37,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 24
+  },
+  {
+   "type": "category",
+   "id": 7,
+   "url": "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+   "slug": "absolute-gospel-programmation-2025",
+   "count": 6,
+   "modified": null,
+   "wp_title": null,
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+   "redirects": [],
+   "html_kb": 93,
+   "litespeed": null,
+   "title": "Archives des Programmation 2025 - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+   "og_title": "Archives des Programmation 2025 - Festival Absolute Gospel",
+   "h1": [
+    "Programmation 2025"
+   ],
+   "h2": [
+    "ONLY GOSPEL SINGERS",
+    "LINDA LEE HOPKINS, GOSPEL JAM & FRIENDS, SABINE KOULI",
+    "MASTERCLASS GOSPEL",
+    "MICHAEL ASHANTI ET LA JAAMA",
+    "Jam Session Gospel",
+    "Programmation 2025, en bref",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/festival-absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/jam-gospel/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/linda-lee-hopkins-gospel-jam-friends-sabine-kouli/",
+    "https://absolutegospel.fr/masterclassgospel/",
+    "https://absolutegospel.fr/michael-ashantiet-la-jaama/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 160,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 24
+  },
+  {
+   "type": "category",
+   "id": 8,
+   "url": "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+   "slug": "absolute-gospel-programmation-2026",
+   "count": 4,
+   "modified": null,
+   "wp_title": null,
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+   "redirects": [],
+   "html_kb": 92,
+   "litespeed": null,
+   "title": "Archives des Programmation 2026 - Festival Absolute Gospel",
+   "meta_description": "Découvrez le Festival Gospel Lyon, un événement unique célébrant la musique gospel. Vivez des moments inoubliables en musique.",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+   "og_title": "Archives des Programmation 2026 - Festival Absolute Gospel",
+   "h1": [
+    "Programmation 2026"
+   ],
+   "h2": [
+    "STAGE VOCAL COMEDIES MUSICALES AVEC SABINE KOULI",
+    "LA JAAMA GOSPEL",
+    "LE GOSPEL SHOW",
+    "SOIREE COMEDIES MUSICALES",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 110,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [],
+   "inbound_count": 25
+  },
+  {
+   "type": "category",
+   "id": 11,
+   "url": "https://absolutegospel.fr/category/programmation-2026/",
+   "slug": "programmation-2026",
+   "count": 4,
+   "modified": null,
+   "wp_title": null,
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/category/programmation-2026/",
+   "redirects": [],
+   "html_kb": 90,
+   "litespeed": null,
+   "title": "Archives des PROGRAMMATION 2026 - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/category/programmation-2026/",
+   "og_title": "Archives des PROGRAMMATION 2026 - Festival Absolute Gospel",
+   "h1": [
+    "PROGRAMMATION 2026"
+   ],
+   "h2": [
+    "STAGE VOCAL COMEDIES MUSICALES AVEC SABINE KOULI",
+    "LA JAAMA GOSPEL",
+    "LE GOSPEL SHOW",
+    "SOIREE COMEDIES MUSICALES",
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "CollectionPage",
+    "ImageObject",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 110,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ]
+   ],
+   "inbound_count": 24
+  },
+  {
+   "type": "category",
+   "id": 1,
+   "url": "https://absolutegospel.fr/category/uncategorized/",
+   "slug": "uncategorized",
+   "count": 0,
+   "modified": null,
+   "wp_title": null,
+   "status": 200,
+   "final_url": "https://absolutegospel.fr/category/uncategorized/",
+   "redirects": [],
+   "html_kb": 85,
+   "litespeed": null,
+   "title": "Archives des Uncategorized - Festival Absolute Gospel",
+   "meta_description": null,
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "canonical": "https://absolutegospel.fr/category/uncategorized/",
+   "og_title": "Archives des Uncategorized - Festival Absolute Gospel",
+   "h1": [
+    "Uncategorized",
+    "Nothing Found"
+   ],
+   "h2": [
+    "Articles récents",
+    "Categories",
+    "Social Links",
+    "ABSOLUTE GOSPEL",
+    "Menu",
+    "Infos"
+   ],
+   "h3": [],
+   "images": [
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "785",
+     "h": "780"
+    },
+    {
+     "src": "https://absolutegospel.fr/wp-content/uploads/cropped-logo-absolute-gospel-seul.png",
+     "alt": "Absolute Gospel 1er Festival de Gospel à Lyon - plus de 20 ans d'existence!",
+     "w": "512",
+     "h": "512"
+    }
+   ],
+   "img_missing_alt": 0,
+   "internal_links": [
+    "https://absolutegospel.fr/",
+    "https://absolutegospel.fr/a-propos/",
+    "https://absolutegospel.fr/blog/",
+    "https://absolutegospel.fr/category/absolute-gospel-programmation-2025/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/",
+    "https://absolutegospel.fr/category/actualites-festival-absolute-gospel/absolute-gospel-programmation-2026/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/",
+    "https://absolutegospel.fr/category/festival-absolute-gospel-precedentes-editions/absolute-gospel-programmation-2024/",
+    "https://absolutegospel.fr/category/programmation-2026/",
+    "https://absolutegospel.fr/contact/",
+    "https://absolutegospel.fr/festival-absolute-gospel-lyon/",
+    "https://absolutegospel.fr/infos-pratiques/",
+    "https://absolutegospel.fr/la-jaama-gospel/",
+    "https://absolutegospel.fr/le-gospel-show/",
+    "https://absolutegospel.fr/only-gospelsingers/",
+    "https://absolutegospel.fr/soiree-comedies-musicales/",
+    "https://absolutegospel.fr/stage-vocal-comedies-musicales-avec-sabine-kouli/"
+   ],
+   "external_links": [
+    "https://www.facebook.com/absolutegospel/",
+    "https://www.instagram.com/absolutegospelfestival/"
+   ],
+   "jsonld_types": [
+    "CollectionPage",
+    "BreadcrumbList",
+    "WebSite",
+    "Organization"
+   ],
+   "words": 19,
+   "tel_links": [],
+   "calendly": false,
+   "issues": [
+    [
+     "P2",
+     "Méta-description absente",
+     "Rédiger 120-155 car."
+    ],
+    [
+     "P3",
+     "2 H1",
+     "Un seul H1"
+    ]
+   ],
+   "inbound_count": 0
+  }
+ ],
+ "broken_internal": {}
+}

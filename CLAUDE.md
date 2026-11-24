@@ -26,6 +26,16 @@ sites/<domaine>/          UN DOSSIER PAR SITE, jamais de mélange
   drafts/                 textes et pages préparés, non publiés
 ```
 
+## Sites gérés (un dossier chacun, identifiants séparés)
+
+- `sites/sabinekouli.com/` : artiste et pédagogue (site principal)
+- `sites/lajaama.fr/` : chorale La Jaama
+- `sites/absolutegospel.fr/` : Festival Absolute Gospel
+- `sites/baobabetcie.fr/` : association Baobab & Compagnie (maison mère)
+
+Rôles, liens entre les sites, identifiants Schema partagés et faits de référence : `docs/ecosystem.md`.
+Les liens entre sites et les `@id` Schema doivent rester conformes à ce document.
+
 ## Règles impératives
 
 1. **Trois niveaux.**

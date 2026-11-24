@@ -37,8 +37,7 @@ def main(site):
     line("yoast/v1" in ns, "Yoast REST (yoast/v1)")
 
     if not wp.authenticated:
-        line(None, "Authentification", "non configurée (sites/%s/.env.local absent ou incomplet)" % site)
-        return
+        line(None, "Authentification", "non configurée localement : test d'une éventuelle injection par le proxy")
     me = wp.get("wp/v2/users/me", {"context": "edit"})
     line(me.status_code == 200, "Authentification", f"HTTP {me.status_code}")
     if me.status_code != 200:

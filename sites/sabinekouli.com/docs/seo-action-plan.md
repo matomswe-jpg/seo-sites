@@ -128,3 +128,12 @@ Textes du plan repris, avec ces correctifs :
 7. Représentation Yoast en « Personne », puis NAP, puis nœud LocalBusiness.
 8. Enrichissement de la page coaching, puis brouillons des deux nouvelles pages.
 9. ALT des images par lots.
+
+## Mise à jour du 24/11/2026 : positionnement gospel
+
+Demande : renforcer aussi l'identité chanteuse gospel, cheffe de chœur gospel et fondatrice du festival Absolute Gospel. Détail dans `docs/editorial/gospel-positioning.md`.
+- **Accueil** : titre révisé en *Sabine Kouli – Chanteuse gospel et coach vocal à Lyon*, avec une méta citant les 25 ans, le festival et le coaching. Il remplace la proposition de la phase 1 (à valider). La recherche « coach vocal Lyon » reste portée par la page coaching.
+- Pages gospel ajoutées au lot titres, méta et ALT : bio (97), La Jaama (121), Événements privés (294), Team building (296), Stage Negro-spirituals (744), Spectacles (412), Festival (267), formations (536, 259, 257).
+- Schema : `founder` → festival, `MusicGroup` pour les formations.
+- absolutegospel.fr : lien et mention « fondé par Sabine Kouli » à ajouter (site séparé).
+- 7e pilier éditorial : « Gospel, chœur et spirituals ».

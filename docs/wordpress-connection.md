@@ -1,0 +1,72 @@
+# Connexion technique à WordPress
+
+## 1. Méthodes possibles et choix retenu
+
+| Méthode | Fiabilité | Sécurité | Usage retenu |
+|---|---|---|---|
+| **API Abilities** (`wp-abilities/v1`, WordPress 6.9 ou plus) | Élevée, native | Permissions WordPress et Yoast appliquées | **1er choix** pour les métadonnées Yoast (`yoast-seo/get-post-seo-data`, `yoast-seo/update-post-seo-data`), si ces capacités sont exposées |
+| **API REST WordPress** (`wp/v2`) et Application Password | Élevée | Révocable, propre à un compte, sans mot de passe principal | **Méthode principale** : contenus, brouillons, médias (texte ALT), étiquettes |
+| API REST Yoast (`yoast/v1`) | Lecture fiable (`get_head`) | — | Contrôle du `<head>` réellement généré. Ne sert pas d'API d'écriture officielle |
+| WP-CLI par SSH | Très élevée | Clé SSH, accès complet au serveur | **Dernier recours** : réglages Yoast globaux, export de la base, opérations hors API |
+| Serveur MCP sur mesure | — | Surface d'attaque en plus | **Non retenu** : les solutions natives suffisent |
+
+## 2. Procédure commune à chaque site
+
+1. L'administrateur crée un **utilisateur technique dédié** (par exemple `seo-technique`), avec une adresse e-mail que vous contrôlez.
+   - Rôle recommandé : **Éditeur**. Il permet de modifier pages et articles, de créer des brouillons, de gérer les médias et les étiquettes, et Yoast lui donne `wpseo_edit_advanced_metadata` et `wpseo_bulk_edit`.
+   - Pas de rôle **Administrateur**.
+   - Les réglages globaux de Yoast (archives d'étiquettes, archives d'auteur, représentation du site) demandent `wpseo_manage_options`. Deux options : vous les faites vous-même en suivant mes instructions pas à pas (recommandé), ou vous accordez **temporairement** le rôle « Gestionnaire SEO » de Yoast, puis vous le retirez.
+2. **Connecté en tant que cet utilisateur technique**, allez dans *Utilisateurs > Profil > Mots de passe d'application*, saisissez le nom `claude-code-seo`, puis cliquez sur « Ajouter ».
+3. Copiez le mot de passe affiché : il ne sera plus jamais montré.
+4. Sur la machine qui exécute Claude Code, créez `sites/<domaine>/.env.local` à partir de `.env.example` et collez-y l'identifiant et le mot de passe d'application. **Ne collez pas ce mot de passe dans la conversation.**
+5. Lancez `python3 scripts/check_connection.py <domaine>` pour vérifier les capacités.
+6. Révocation : *Profil > Mots de passe d'application > Révoquer*, efficace immédiatement.
+
+> Session cloud Claude Code : le conteneur est éphémère. Le fichier `.env.local` disparaît en fin de session, ce qui est voulu. Pour un usage durable, gardez-le sur votre ordinateur (Claude Code en local) ou enregistrez-le comme *secret d'environnement* dans les réglages de l'environnement cloud, jamais dans Git.
+
+## 3. sabinekouli.com : constats du 24/11/2026
+
+| Élément | Constat | Source |
+|---|---|---|
+| WordPress | 7.1.5 | meta generator |
+| PHP | 8.4 | en-tête `x-powered-by` |
+| Yoast SEO | 28.9 (« Stable tag » du readme public) | readme.txt |
+| LiteSpeed Cache | actif (en-têtes `x-litespeed-tag`, JS différé, UCSS) | en-têtes HTTP |
+| Thème | rock-singer-pro-premium | HTML |
+| Autres extensions | Wordfence 9.1.1, Contact Form 7 6.2.6, Complianz 7.5.7, PixelYourSite 11.4.7, Akismet | readme et namespaces REST |
+| Hébergement | OVH (AS16276), hébergement mutualisé probable, serveur Apache | IP 164.132.235.17 |
+| API REST | ouverte (HTTP 200) | `/wp-json/` |
+| API Abilities | **présente** (`wp-abilities/v1`), la liste demande une authentification | `/wp-json/wp-abilities/v1/abilities`, réponse 401 |
+| API Yoast | présente (`yoast/v1`), `get_head` lisible publiquement | |
+| **Application Passwords** | **probablement désactivées** : la clé `authentication` de `/wp-json/` est vide | `/wp-json/` |
+| WP-CLI / SSH | non vérifiable sans identifiants. Les offres OVH « Pro » et supérieures proposent SSH, et WP-CLI y est installé | à confirmer |
+| XML-RPC | désactivé (405), c'est bien | |
+| Indexables Yoast | `yoast_head_json` présent et cohérent sur toutes les URL testées. L'état complet (fin de l'indexation) se vérifie en admin : *Yoast SEO > Outils > Optimiser les données SEO* | |
+
+### Étapes à faire de votre côté (environ 10 minutes)
+
+1. **Réactiver les Application Passwords dans Wordfence.**
+   *Wordfence > Login Security > Paramètres* : décochez « Disable WordPress application passwords », puis enregistrez.
+   Si l'option est déjà décochée, une autre extension ou un réglage d'hébergement les bloque : signalez-le-moi.
+2. **Créer l'utilisateur technique.**
+   *Utilisateurs > Ajouter*. Identifiant : `seo-technique` (jamais `admin`). Rôle : **Éditeur**. Pas de notification d'e-mail nécessaire.
+3. **Si Wordfence impose la double authentification (2FA)** aux éditeurs : les Application Passwords restent compatibles avec l'API REST, donc rien à changer.
+4. **Créer le mot de passe d'application** depuis le profil de `seo-technique`, sous le nom `claude-code-seo`.
+5. Remplir `sites/sabinekouli.com/.env.local` avec `WP_USER=seo-technique` et `WP_APP_PASSWORD=...`.
+6. **Sauvegarde :** dans l'espace client OVH, vérifiez que les sauvegardes automatiques de l'hébergement et de la base de données sont actives, avec leur date. Faites aussi une sauvegarde manuelle avant la première modification. Si vous voulez une restauration indépendante d'OVH : UpdraftPlus (gratuit) vers Google Drive.
+7. **Staging :** OVH mutualisé ne propose pas de préproduction en un clic. Option sûre : tout préparer en **brouillon** (prévisualisation privée), modifier une page à la fois avec export de l'état initial, et ne toucher aux réglages globaux qu'après une sauvegarde manuelle.
+
+### Après la connexion, je vérifierai
+
+- l'authentification et le rôle effectif ;
+- `wpseo_edit_advanced_metadata`, `edit_others_pages`, `edit_published_pages`, `upload_files`, `manage_categories` ;
+- la liste réelle des abilities, et si `yoast-seo/get-post-seo-data` et `yoast-seo/update-post-seo-data` en font partie ;
+- les champs `meta` exposés en écriture par l'API REST, comme solution de repli si les abilities Yoast sont absentes.
+
+## 4. Limites connues
+
+- L'API REST de Yoast permet de **lire** (`yoast_head_json`, `get_head`), mais elle ne garantit pas l'**écriture** des champs `_yoast_wpseo_title`, `_yoast_wpseo_metadesc` et `_yoast_wpseo_meta-robots-noindex`. Ces métadonnées ne sont pas déclarées dans `register_meta` pour la REST par défaut.
+  Ordre de préférence pour écrire : (1) l'ability `yoast-seo/update-post-seo-data` ; (2) WP-CLI `wp post meta update` suivi de la reconstruction des indexables ; (3) la saisie manuelle guidée dans l'éditeur.
+- Les réglages globaux de Yoast (taxonomies, archives, représentation du site) passent par l'administration ou par WP-CLI (`wp option`), avec `wpseo_manage_options`.
+- Les redirections 301 se font avec Yoast Premium, l'extension « Redirection », ou un fichier `.htaccess` (OVH/Apache). Chacune demande votre accord et n'est pas faisable avec le rôle Éditeur.
+- Google Business Profile : aucun accès depuis WordPress. C'est une mission séparée, avec des textes préparés pour validation.

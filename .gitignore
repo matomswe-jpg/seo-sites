@@ -1,0 +1,10 @@
+# Secrets : jamais versionnés
+.env
+.env.local
+**/.env.local
+*.secret
+# Sauvegardes et exports bruts (peuvent contenir des données privées)
+sites/*/backups/
+# Python
+__pycache__/
+*.pyc

@@ -98,3 +98,20 @@ Alternative en local (Claude Code sur votre ordinateur) : `sites/<site>/.env.loc
 ### Vérification
 
 `python3 scripts/check_connection.py <site>` : authentification, rôle, `wpseo_edit_advanced_metadata`, abilities `yoast-seo/*`, lecture en mode édition.
+
+## 6. sabinekouli.com : diagnostic d'accès API (25/11/2026)
+
+Résultat : **l'authentification par mot de passe d'application échoue depuis l'extérieur**. Toute requête authentifiée répond `401 rest_not_logged_in`, y compris depuis le Mac de Sabine. Un identifiant volontairement faux donne la même réponse : WordPress ne lit pas l'en-tête.
+
+Vérifié et écarté :
+- mots de passe d'application : réactivés (option Wordfence « Désactiver les mots de passe des applications WordPress » décochée), exposés dans `/wp-json/` ✅ ;
+- `.htaccess` : directives SetEnvIf et RewriteRule (version OVH) en tête de fichier ;
+- Santé du site : « L'entête d'autorisation fonctionne comme prévu » ✅. Ce test vérifie seulement une requête interne du serveur vers lui-même ;
+- extensions désactivées une à une ou par groupe, sans effet : PixelYourSite, Maintenance, Disable Comments, LiteSpeed Cache, Wordfence, Akismet, Complianz, Contact Form 7, Duplicate Page, Post Type Switcher, Quick Featured Images, WordPress Importer, Yoast SEO ;
+- pare-feu applicatif OVH (mod_security) désactivé pendant 5 minutes : sans effet, puis remis sur « sécurité ».
+
+Hypothèses restantes : le thème (rock-singer-pro, non testé), ou un traitement des requêtes externes par l'infrastructure OVH.
+
+Incident : après de nombreuses requêtes de test avec un faux identifiant, l'adresse IP de la session cloud a été bloquée (403 Apache sur tout le site). Le site restait accessible normalement aux visiteurs (vérifié par Sabine en navigation privée). **Ne plus envoyer de requêtes avec de faux identifiants.**
+
+Solution de repli recommandée : **WP-CLI par SSH** (offre OVH Pro, SSH actif), avec Claude Code exécuté en local sur le Mac de Sabine.

@@ -60,3 +60,8 @@ Tarifs, témoignages, diplômes et qualifications, horaires des cours.
 - **Sur sabinekouli.com**, la Maison Ferber et la Maison de quartier de Saint-Clair restent présentées comme **lieux de cours** (page coaching, page Contact). Le pied de page affiche le nom, le téléphone et « Cours à Caluire-et-Cuire et en visio », sans adresse postale présentée comme siège de l'activité.
 - Schema : Person (`https://sabinekouli.com/#person`) avec `telephone`, `areaServed` et `sameAs`, sans `address` d'établissement. Les deux lieux apparaissent comme `Place` dans le contenu de la page coaching, sans nœud LocalBusiness à l'adresse Ferber.
 - Exécution sur Google Business Profile : **par Sabine** (aucun accès de ma part). Procédure dans `docs/seo-action-plan.md`, phase 3.
+
+## Hébergement (OVH, 25/11/2026)
+- Offre Pro, partagée avec les autres sites ; accès SSH disponible (paramètres dans l'espace client OVH). Inutilisable depuis la session cloud.
+- OVH : l'en-tête Authorization n'est pas transmis par défaut d'Apache à PHP-FPM ; directives .htaccess recommandées par OVH à tester.
+- Fiche Google : 40 ans de scène, 25 ans de direction de chœur (déclaré par Sabine).

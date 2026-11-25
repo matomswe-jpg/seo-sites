@@ -8,3 +8,6 @@ sites/*/backups/
 # Python
 __pycache__/
 *.pyc
+
+# Réglages locaux Claude Code
+.claude/settings.local.json

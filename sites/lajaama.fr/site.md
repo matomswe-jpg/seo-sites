@@ -11,3 +11,8 @@
 
 Ces plans sont la feuille de route du site. Chaque action reste soumise aux 3 niveaux de `CLAUDE.md` : rien n'est publié, supprimé ou redirigé sans validation.
 Corrections à apporter aux plans : `docs/ecosystem.md`, section 4 (identifiants Schema) et section 6 (faits).
+
+## Conditions d'accès à la chorale (précisé par Sabine le 25/11/2026)
+- Ouverte à tous, **y compris aux débutants en gospel**.
+- **Pas de personnes n'ayant jamais chanté** : elles commencent par des cours de technique vocale (coaching ou stage avec Sabine) pour acquérir les bases de leur instrument vocal.
+- Orientation à prévoir dans les contenus : « jamais chanté ? » → page coaching ou stage de technique vocale sur sabinekouli.com.

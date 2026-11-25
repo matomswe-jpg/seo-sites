@@ -94,7 +94,7 @@ Les noms actuels de fiches qui contiennent des mots-clés (« CHORALE GOSPEL LYO
 |---|---|---|
 | La Jaama : création | 1999 | plan La Jaama |
 | La Jaama : répétitions | mardi 19 h – 21 h, Maison Ferber, 14 rue du Capitaine Ferber, 69300 Caluire-et-Cuire | **confirmé par Sabine le 24/11** |
-| La Jaama : niveau | débutants en gospel bienvenus, **il faut savoir chanter juste** | **confirmé par Sabine le 24/11**. ⚠️ Le plan disait « débutants comme confirmés » : à reformuler |
+| La Jaama : niveau | ouverte à tous dont les débutants en gospel, **mais pas aux personnes n'ayant jamais chanté** (elles commencent par des cours de technique vocale) | **précisé par Sabine le 25/11** |
 | La Jaama : tarif | 330 €/an, payable en 3 ou 5 fois, essai offert | plan La Jaama, à reconfirmer avant publication |
 | Baobab : création | 29/08/2002, SIRET 444 056 758 00014 | plan Baobab |
 | Festival : création | 2004 ; 22e édition les 5-6 juin 2026 | plans ; « 22 éditions en 23 ans » à confirmer (une année sans édition ?) |

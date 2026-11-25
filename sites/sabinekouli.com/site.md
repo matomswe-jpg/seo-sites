@@ -9,7 +9,7 @@ Source de vérité pour les contenus, le NAP et le Schema. Tout élément marqu�
 | Nom affiché sur le site | Sabine Kouli | constaté |
 | Nom exact de la fiche Google Business Profile | ? | **[À VALIDER]** : à recopier depuis business.google.com. Le plan propose « Sabine Kouli », ou « Sabine Kouli – Coach vocal » seulement si c'est le nom commercial réel |
 | Activités | chanteuse gospel, cheffe de chœur, coach vocal, formatrice, stages, prestations | fourni |
-| Origine | Togo | mentionné dans le plan, à confirmer sur la bio |
+| Origine | Togo | **validé par Sabine le 25/11/2026** |
 | Années d'expérience | 25 ans | **validé** par Sabine le 24/11/2026 |
 | Fondatrice du festival Absolute Gospel | oui | constaté sur le site |
 
@@ -36,6 +36,11 @@ Source de vérité pour les contenus, le NAP et le Schema. Tout élément marqu�
 ## Non fournis (ne rien inventer)
 
 Tarifs, témoignages, diplômes et qualifications, horaires des cours.
+
+## Validé le 25/11/2026
+- Styles enseignés : gospel, soul, jazz, variété, comédie musicale, chant traditionnel.
+- Cours ouverts à tous les niveaux, débutants compris ; la visio est efficace pour la plupart des objectifs (réponses FAQ validées).
+- Fiche Google Sabine Kouli : plusieurs avis obtenus (nombre à relever).
 
 ## Google Search Console
 

@@ -32,9 +32,9 @@ Les deux leviers principaux pour « prof de chant » : **la fiche Google** (cart
 | **Pédagogie vocale** | Cours, stages et ateliers de chant à Lyon – Sabine Kouli (56) | Coaching individuel, stages de technique vocale, gospel et negro-spirituals, chœur d'enfants : tous les accompagnements vocaux de Sabine Kouli à Lyon. (150) |
 | **Stage de technique vocale** | Stage de technique vocale à Lyon – Sabine Kouli (47) | Stage pour découvrir les bases de sa voix : respiration, résonance, posture. Tous niveaux, à Caluire près de Lyon. Dates et inscription. (136) |
 | **Contact** | Contact – Sabine Kouli, coach vocal à Caluire (Lyon) (52) | Une question sur un cours de chant, un stage ou une prestation ? Contactez Sabine Kouli, coach vocal et cheffe de chœur gospel à Caluire-et-Cuire. (146) |
-| **Bio** (page « Sabine Kouli ») | Sabine Kouli – Chanteuse gospel, cheffe de chœur, coach vocal (61) | Parcours de Sabine Kouli : chanteuse gospel, cheffe de chœur, fondatrice du festival Absolute Gospel et pédagogue de la voix, 25 ans d'expérience. (146) |
+| **Bio** (page « Sabine Kouli ») | Sabine Kouli – Chanteuse gospel, cheffe de chœur, coach vocal (61) | Parcours de Sabine Kouli : chanteuse gospel originaire du Togo, cheffe de chœur, fondatrice du festival Absolute Gospel et pédagogue de la voix à Lyon. (151) ✅ *Togo validé* |
 
-Changement par rapport au plan du 13/11 : le titre de la page coaching contient maintenant **« prof de chant »**, l'expression la plus tapée par les élèves. « Coach vocal » reste présent. « Originaire du Togo » est retiré de la bio en attendant votre confirmation.
+Changement par rapport au plan du 13/11 : le titre de la page coaching contient maintenant **« prof de chant »**, l'expression la plus tapée par les élèves. « Coach vocal » reste présent. « Originaire du Togo » est validé (25/11).
 
 **Accueil, titre principal (H1)** : l'accueil est construit par le thème. Dans *Apparence > Personnaliser*, cherchez le bloc du premier titre « Sabine Kouli » et changez son texte en *Sabine Kouli – Chanteuse gospel et coach vocal à Lyon*. Si le thème ne permet pas de choisir le niveau du titre (H1), envoyez-moi une capture : ne modifiez pas le code du thème.
 
@@ -62,6 +62,7 @@ Titre de la page (qui devient le H1) : remplacez *« Cours et coaching vocal ind
 *(Ces publics reprennent ceux déjà cités sur votre page : « chanteur, orateur, professeur ou simplement passionné », « préparation à une audition, prise de parole en public ».)*
 
 ### ➕ H2 « Ce que nous travaillons »
+Tous styles : gospel, soul, jazz, variété, comédie musicale, chant traditionnel.
 Souffle et respiration · posture et libération des tensions · résonance et placement · justesse et oreille · registres (voix de poitrine, voix de tête, voix mixte) · interprétation et émotion · confiance et présence sur scène.
 *(Plus tard, liens vers les articles « Il était une voix » : voix mixte, chanter juste, échauffement vocal.)*
 
@@ -86,13 +87,13 @@ Remplace la phrase « En Présentiel : à Caluire 69300 ».
 
 ### ➕ H2 « Questions fréquentes » (bloc « FAQ » de Yoast)
 1. **Faut-il déjà savoir chanter pour prendre des cours ?**
-   Non. Les cours s'adaptent à votre niveau, du tout débutant au chanteur confirmé. **[À VALIDER]**
+   Non. Les cours s'adaptent à votre niveau, du tout débutant au chanteur confirmé. ✅ *validé*
 2. **Les cours en visio sont-ils aussi efficaces ?**
-   Oui, pour la plupart des objectifs : on travaille le souffle, la posture, la justesse et l'interprétation comme en présentiel, avec une simple connexion internet. **[À VALIDER : votre avis de pédagogue]**
+   Oui, pour la plupart des objectifs : on travaille le souffle, la posture, la justesse et l'interprétation comme en présentiel, avec une simple connexion internet. ✅ *validé*
 3. **Combien dure une séance ?**
    Une heure : échauffement et technique de base, travail ciblé sur votre objectif, puis conseils et exercices à faire entre les séances. *(texte de votre page)*
 4. **Quels styles travaillez-vous ?**
-   **[À COMPLÉTER : gospel, soul, jazz, variété, comédie musicale… selon ce que vous enseignez réellement]**
+   Tous les styles : gospel, soul, jazz, variété, comédie musicale et chant traditionnel. Nous partons de votre répertoire et de vos envies. ✅ *validé*
 5. **Comment se passe le premier rendez-vous ?**
    Le premier entretien est offert et sans engagement, en visio ou en présentiel : nous faisons connaissance, j'écoute votre voix et nous définissons ensemble votre objectif. *(texte de votre page)*
 

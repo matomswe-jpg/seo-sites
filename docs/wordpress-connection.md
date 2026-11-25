@@ -115,3 +115,14 @@ Hypothèses restantes : le thème (rock-singer-pro, non testé), ou un traitemen
 Incident : après de nombreuses requêtes de test avec un faux identifiant, l'adresse IP de la session cloud a été bloquée (403 Apache sur tout le site). Le site restait accessible normalement aux visiteurs (vérifié par Sabine en navigation privée). **Ne plus envoyer de requêtes avec de faux identifiants.**
 
 Solution de repli recommandée : **WP-CLI par SSH** (offre OVH Pro, SSH actif), avec Claude Code exécuté en local sur le Mac de Sabine.
+
+## 7. Accès par SSH et WP-CLI (méthode retenue le 25/11/2026)
+
+Raison : l'API REST authentifiée est inutilisable depuis l'extérieur (voir section 6). Ce recours est prévu par la règle n°5 de `CLAUDE.md` (option c).
+
+- Exécution : **Claude Code en local sur le Mac de Sabine**. La session cloud ne peut pas ouvrir de connexion SSH.
+- Serveur : celui indiqué dans l'espace client OVH (Hébergements web > absolutegospel.fr > onglet FTP-SSH), port 22. Les 4 sites sont sur le même hébergement, chacun dans son dossier.
+- Authentification : **clé SSH** créée sur le Mac (`ssh-keygen -t ed25519`), puis ajoutée à `~/.ssh/authorized_keys` sur l'hébergement. Le mot de passe FTP/SSH n'est jamais écrit dans le projet ni dans la conversation.
+- Vérification : `wp --info`, puis `wp option get home` dans le dossier de chaque site, pour confirmer le bon site **avant toute action**.
+- Règles inchangées : 3 niveaux, sauvegarde avant modification (UpdraftPlus et `wp db export` dans `backups/`), une modification de test d'abord, contrôle du HTML publié, journal.
+- WP-CLI agit avec tous les droits : chaque commande d'écriture est soumise à Sabine avant exécution.
